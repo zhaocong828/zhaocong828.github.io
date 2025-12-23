@@ -11,10 +11,16 @@ main:
 
   - title: "Projects"
     url: "/#-projects"
-
+    
+  - title: "News"
+    url: "/#-News"
+    
   - title: "Publications"
     url: "/#-publications"
   
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+
+    - title: "People"
+    url: "/#-people"
 
