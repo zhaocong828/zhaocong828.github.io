@@ -51,6 +51,10 @@ redirect_from:
 - 浙江省道桥检测与养护技术研究重点实验室基金(2021), 基于时空数据匹配的路面服役状态大数据评价技术, 主持
 - 国家重点研发计划(2019), 港珠澳大桥智能化运维技术集成应用, 项目骨干
 
+# 📰 News
+
+- 🔥`New！`获批国家自然科学基金交叉科学部青年B类项目（原优青项目）(https://steps.tongji.edu.cn/79/b0/c20282a358832/page.htm)
+
 # 📝 Publications 
 📃 Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/18.png' alt="sym" width="100%"></div></div>
