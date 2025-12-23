@@ -333,7 +333,7 @@ Transportation Research Part C: Emerging Technologies
 **PhD Students**
 
 **Master Students**
-- Hanlin Yang(2024.9-, Research interests include intelligent transportation infrastructure and road maintenance decision-making.)
+- [Hanlin Yang](https://henryyang-1.github.io/)(2024.9-, Research interests include intelligent transportation infrastructure and road maintenance decision-making.)
 - Jun Wan(2025.9-, )
 - Enze Wang(2026.9-, )
 - Jingtai Luo(2026.9-, )
