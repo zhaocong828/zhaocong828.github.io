@@ -327,4 +327,17 @@ Transportation Research Part C: Emerging Technologies
 - 上海市科技进步**一等奖**(2019) 《路面多维高频检测装备和智能养护技术及应用》
 - 中国公路学会科学技术奖**一等奖**(2017)《轻量化沥青路面行驶质量快速检测系统》
 
+# 🧑‍💻 Group
+Postdoc
 
+PhD Students
+
+Master Students
+- Hanlin Yang(2024.9-, Research interests include intelligent transportation infrastructure and road maintenance decision-making.)
+- Jun Wan(2025.9-, )
+- Enze Wang(2026.9-, )
+- Jingtai Luo(2026.9-, )
+
+Undergraduate Students
+
+Visiting Students
