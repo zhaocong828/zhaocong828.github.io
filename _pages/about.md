@@ -42,6 +42,7 @@ redirect_from:
 - *2024.03 - 至今* ,   [同济大学](https://www.tongji.edu.cn/), 交通运输工程学院, 研究员.
 
 # 🔍 Projects
+- 🔥`New！`国家自然科学基金交叉科学部青年B类项目, 主持
 - 🔥`New！`国家自然科学基金面上项目, 知识启发的生成式道路养护决策方法研究, 主持
 - 国家重点研发计划(2023), 智能网联道路交通系统的能源自洽技术, 子课题主持
 - 上海市科技创新行动计划(2023), 道路基础设施多维体征的数字化感知与评价方法研究, 主持
@@ -51,9 +52,16 @@ redirect_from:
 - 浙江省道桥检测与养护技术研究重点实验室基金(2021), 基于时空数据匹配的路面服役状态大数据评价技术, 主持
 - 国家重点研发计划(2019), 港珠澳大桥智能化运维技术集成应用, 项目骨干
 
-# 📰 News
+# 📰🔥 News
 
-- 🔥`New！`[获批国家自然科学基金交叉科学部青年B类项目（原优青项目）](https://steps.tongji.edu.cn/79/b0/c20282a358832/page.htm)
+- [获批国家自然科学基金交叉科学部青年B类项目（原优青项目）](https://steps.tongji.edu.cn/79/b0/c20282a358832/page.htm)
+- 2025领跑者5000（F5000）顶尖论文[《新一代智慧高速公路系统架构设计》](https://kns.cnki.net/kcms2/article/abstract?v=zYSMMY9t1scjAZV0Am70WcwnH4CVsY6b29i-f_e5pf7OZBzvlJiHNGk5Z1nG2Vog0aiAbtkKMKTx0DdKsygJDE2NwF5XVAGraWGABgUtGwHNyiQhToEBqfLjJSL8Jh5E6rtjsmXgGF6-JV8TcdmTA4twO7qGQFYqD4I5bJfsURc=&uniplatform=NZKPT)
+- 数据要素×交通Al+城市与交通典型案例征集——数字路长“智能管养平台建设”
+- 国家一流课程（社会实践类）《交通科技竞赛》
+- 河北垂直大模型应用场景《同济小图》
+- 新加坡LTA证明《轻量化路面巡查系统》
+- UNESCAP	Accelerating Collective Action in the Third Decade of the Programme of Action for Landlocked Developing Countries (2024–2034) through Strengthening Operational Connectivity along the Asian Highway Network and its Connections
+- 高峰学科交叉项目《无线电能驱动的电气化、模块化低空基础设施》
 
 # 📝 Publications 
 📃 Papers
@@ -314,9 +322,13 @@ Transportation Research Part C: Emerging Technologies
 
 # 🏆 Honors and Awards
 🏅 Honors
+- 🔥`New！`	同济大学教学成果奖**二等奖**（2025）明体达用、智慧赋能：《交通数据分析与应用》课程建设与创新教学实践
+- 🔥`New！`同济大学青年教师教学竞赛**一等奖**（2025）《计算机视觉》
+- 🔥`New！`北京市科技进步奖**二等奖**（2025）《城市道路智能巡检与精细管养关键技术及工程应用》
+- 🔥`New！`中国智能交通协会科技进步奖**二等奖**（2025）《高频数据驱动的生成式道路养护决策关键技术及应用》
 - 🔥`New！`中国公路学会科技进步**一等奖**（2025）《在役公路网的“巡检-决策-养护”智能装备和系统研发及应用》
-- 🔥`New！`广东省科技进步**二等奖**（2024）《城市道路多维运行风险泛在感知与管养决策关键技术及应用》
-- 🔥`New！`江西省科技进步**二等奖**（2024）《高速公路数智养护技术研究与应用》
+- 广东省科技进步**二等奖**（2024）《城市道路多维运行风险泛在感知与管养决策关键技术及应用》
+- 江西省科技进步**二等奖**（2024）《高速公路数智养护技术研究与应用》
 - 中国公路学会科学技术奖**特等奖**(2023) 《距离高速公路智能建造与运维关键技术研究及应用》
 - 《中国公路学报》年度**优秀论文**(2023) 《新一代智慧高速公路系统架构设计》
 - 中国交通协会科技进步**一等奖**(2023) 《高速公路数智养护与决策平台建设关键技术研究及开发》
