@@ -14,7 +14,7 @@ main:
     
 # 新增 News 模块
   - title: "News"
-    url: "/#news"
+    url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
@@ -24,6 +24,6 @@ main:
     
   # 新增 People 模块
   - title: "People"
-    url: "/#people"
+    url: "/#-people"
 
 
