@@ -54,22 +54,24 @@ redirect_from:
 
 # 📰🔥 News
 <div class='paper-box' style="padding: 15px; background-color: #fcfcfc; border: 1px solid #eee; border-radius: 8px; margin-bottom: 20px;">
-  <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
-    <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
-    <span style="vertical-align: middle;">刘成龙副教授获批国家自然科学基金交叉科学部青年B类项目</span>
-    </div>
-  <div style="color: #555; font-size: 0.95em;">
+<div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
+<span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
+<span style="vertical-align: middle;">刘成龙副教授获批国家自然科学基金交叉科学部青年B类项目</span>
+</div>
+<div style="color: #555; font-size: 0.95em;">
 近日，国家自然科学基金委员会公布了2025年度项目评审结果，同济大学智能交通新兴计算与感知课题组（STEP）刘成龙副教授申报的国家自然科学基金青年科学基金B类项目（原国家优青项目）顺利获批。这是团队在交通基础设施数字化运维管理领域长期科研积累与创新贡献的充分肯定。
 
 刘成龙副教授长期致力于道路工程与信息工程交叉研究，在交通基础设施数字化感知、智能诊断与运维决策方面取得了系列创新成果，研究成果在AIC、Transport Res. C、IEEE Trans. ITS、中国公路学报等高水平期刊会议发表研究论文100余篇，多项研究成果相继被遴选为IEEE ITSM封面论文、中国公路学报年度优秀论文、ESI高被引论文、ESI热点论文、中国知网高被引、高下载、高PCSI论文、交通部重大科技成果、COTA Best Presentation Award等。相关成果获授权中国、美国、英国、国际专利40余项，荣获中国专利优秀奖、上海市百强高价值专利，并实现了千万级成果转化与产业化应用。获得上海市科技进步一等奖、中国公路学会科学技术一等奖、中国交通运输协会科学进步一等奖、中国发明协会发明创新一等奖等奖励。
 
 此次立项将进一步推动课题组在智能交通基础设施数字化与智慧运维方向的科研布局，助力我国交通基础设施高质量发展。课题组全体成员对刘成龙副教授表示热烈祝贺，并期待项目顺利实施，取得更多突破性成果。
-  </div>
+</div>
 </div>
 
 <div class='paper-box' style="padding: 15px; background-color: #fcfcfc; border: 1px solid #eee; border-radius: 8px; margin-bottom: 20px;">
+<div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
 <span style="vertical-align: middle;">团队与斯坦福大学合作成果发表于Nature子刊《Scientific Data》
 </span>
+</div>
 <div style="color: #555; font-size: 0.95em;">
 团队联合斯坦福大学Martin Fischer教授团队共同完成的研究成果——《A Large-Scale Image Repository for Automated Pavement Distress Analysis and Degradation Trend Prediction》（大规模自动化路面病害分析与退化趋势预测图像库）及其配套数据集 PaveTrack，正式发表于Nature旗下期刊 Scientific Data。
 
@@ -81,8 +83,10 @@ PaveTrack 数据集收录了来自中国与美国的近6万张路面病害图像
 </div>
 
 <div class='paper-box' style="padding: 15px; background-color: #fcfcfc; border: 1px solid #eee; border-radius: 8px; margin-bottom: 20px;">
+<div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
 <span style="vertical-align: middle;">团队成果《新一代智慧高速公路系统架构设计》入选2025领跑者5000（F5000）顶尖论文
 </span>
+</div>
 <div style="color: #555; font-size: 0.95em;">
 近日，中国科学技术信息研究所发布了2025年度“领跑者5000-中国精品科技期刊顶尖学术论文”（简称F5000）入选名单。由团队杜豫川教授作为第一作者，刘成龙副教授作为通讯作者，在《中国公路学报》发表的《新一代智慧高速公路系统架构设计》一文入选2025领跑者5000（F5000）顶尖论文。
   
