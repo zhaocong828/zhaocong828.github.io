@@ -65,12 +65,7 @@ redirect_from:
   margin-top: 20px;
 }
 
-/* 手机端优化：屏幕小于 768px 时自动变回 1 列，防止排版太挤 */
-@media (max-width: 768px) {
-  .news-grid {
-    grid-template-columns: 1fr;
-  }
-}
+
 
 /* 2. 新闻卡片（预览状态） - 保持不变 */
 .news-card {
