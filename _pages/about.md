@@ -160,8 +160,9 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
 
 </div>
 </div>
+
 <details>
-<summary style="cursor: pointer; color: #007bff; font-weight: bold; margin: 20px 0;">👉 Click to view Past Publications (点击查看往期论文)</summary>
+  <summary style="cursor: pointer; color: #007bff; font-weight: bold; margin: 20px 0;">👉 Click to view Past Publications (点击查看往期论文)</summary>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Computer‐Aided Civil and Infrastructure Engineering
@@ -316,6 +317,7 @@ Transportation Research Part C: Emerging Technologies
 </div>
 </div>
 <details>
+
 # 📚 Patents
 - 🔥`New！`A method for leakage detection of underground corridor based on static infrared thermal image processing(GB2569751)
 - 🔥`New！`Comfort-based self-driving planning method(US 11,447,150 B2)
