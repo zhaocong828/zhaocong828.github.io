@@ -54,11 +54,8 @@ redirect_from:
 
 # 📰🔥 News
 <div class='paper-box' style="padding: 15px; background-color: #fcfcfc; border-left: 5px solid #d9534f;">
-
-  <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
     <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
     <span style="vertical-align: middle;">刘成龙副教授获批国家自然科学基金交叉科学部青年B类项目</span>
-  </div>
   <div style="color: #555; font-size: 0.95em;">
 近日，国家自然科学基金委员会公布了2025年度项目评审结果，同济大学智能交通新兴计算与感知课题组（STEP）刘成龙副教授申报的国家自然科学基金青年科学基金B类项目（原国家优青项目）顺利获批。这是团队在交通基础设施数字化运维管理领域长期科研积累与创新贡献的充分肯定。
 
@@ -68,10 +65,11 @@ redirect_from:
   </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box' style="padding: 15px; background-color: #fcfcfc; border-left: 5px solid #d9534f;">
 
-团队与斯坦福大学合作成果发表于Nature子刊《Scientific Data》
-
+<span style="vertical-align: middle;">团队与斯坦福大学合作成果发表于Nature子刊《Scientific Data》
+</span>
+<div style="color: #555; font-size: 0.95em;">
 团队联合斯坦福大学Martin Fischer教授团队共同完成的研究成果——《A Large-Scale Image Repository for Automated Pavement Distress Analysis and Degradation Trend Prediction》（大规模自动化路面病害分析与退化趋势预测图像库）及其配套数据集 PaveTrack，正式发表于Nature旗下期刊 Scientific Data。
 
 该论文的第一作者为同济大学交通运输工程学院2024级硕士研究生杨瀚霖，刘成龙副教授与杜豫川教授担任共同通讯作者。
@@ -79,7 +77,19 @@ redirect_from:
 PaveTrack 数据集收录了来自中国与美国的近6万张路面病害图像，覆盖裂缝、坑槽、龟裂等10类病害，共计18万条精细标注信息。同时，团队首次公开了约9000张病害发育动态追踪图像，对165个道路位点进行了连续检测与跟踪，为深入揭示路面病害演化机理及退化趋势预测提供了坚实的数据支撑。
 目前，PaveTrack 数据集已在 Science Data Bank 正式开放，研究人员可通过以下[链接](https://doi.org/10.57760/sciencedb.20383)获取
 </div>
+</div>
 
+<div class='paper-box' style="padding: 15px; background-color: #fcfcfc; border-left: 5px solid #d9534f;">
+<span style="vertical-align: middle;">团队成果《新一代智慧高速公路系统架构设计》入选2025领跑者5000（F5000）顶尖论文
+</span>
+<div style="color: #555; font-size: 0.95em;">
+近日，中国科学技术信息研究所发布了2025年度“领跑者5000-中国精品科技期刊顶尖学术论文”（简称F5000）入选名单。由团队杜豫川教授作为第一作者，刘成龙副教授作为通讯作者，在《中国公路学报》发表的《新一代智慧高速公路系统架构设计》一文入选2025领跑者5000（F5000）顶尖论文。
+  
+该成果以前瞻性的系统思维重新定义了智慧高速的顶层架构，为国家高速公路的数字化转型和代际演进提供了具有前瞻性的理论框架和技术蓝图，此前，该成果已入选高被引、高影响、高PCSI论文，获得中国公路学报年度优秀论文。
+
+根据《中国科技论文与引文数据库》信息，采用定量分析（5年被引次数）和定性分析相结合的方法，对学术期刊的质量和影响力进行科学评价，遴选出精品科技期刊。每种精品期刊从5年间发表的论文中择优选取不超过20篇学术论文作为F5000的提名论文。提名论文再经过进一步遴选才能成为F5000论文。入选论文要求为各学科前1%高被引论文，且为原创性的科学研究或技术创新成果，能够反映期刊所在学科领域的最高学术水平。
+</div>
+</div>
 
 # 📝 Publications 
 📃 Papers
