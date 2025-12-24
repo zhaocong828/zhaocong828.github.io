@@ -56,19 +56,19 @@ redirect_from:
 # 📰🔥 News
 
 <style>
-/* 1. 新闻容器：网格布局 */
+/* 1. 新闻容器：弹性布局 */
 .news-grid {
-  display: grid;
-  /* 核心修改：强制分为 2 列，每列占 50% */
-  grid-template-columns: repeat(2, 1fr); 
-  gap: 20px; /* 卡片之间的间距 */
+  display: flex;
+  flex-wrap: wrap; /* 允许换行 */
+  gap: 20px;       /* 卡片之间的间距 */
   margin-top: 20px;
+  width: 100%;     /* 确保容器占满宽度 */
 }
 
-
-
-/* 2. 新闻卡片（预览状态） - 保持不变 */
+/* 2. 新闻卡片（预览状态） */
 .news-card {
+  /* 核心修改：强制宽度为50%减去一半间距 */
+  width: calc(50% - 10px) !important; 
   background-color: #fcfcfc;
   border: 1px solid #eee;
   border-radius: 8px;
@@ -76,9 +76,11 @@ redirect_from:
   cursor: pointer;
   position: relative;
   overflow: hidden;
-  height: 220px; /* 稍微增加高度，因为两列显示时文字换行可能会更多 */
+  height: 220px; 
   transition: all 0.3s ease;
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  box-sizing: border-box; /* 确保内边距不撑大盒子 */
+  margin-bottom: 0; /* 移除可能的默认下边距，由 gap 控制 */
 }
 
 .news-card:hover {
@@ -96,6 +98,13 @@ redirect_from:
   height: 60px;
   background: linear-gradient(to bottom, rgba(252,252,252,0), rgba(252,252,252,1));
   pointer-events: none;
+}
+
+/* 3. 手机端适配：屏幕小于 768px 时强制变为单列 */
+@media (max-width: 768px) {
+  .news-card {
+    width: 100% !important; /* 手机上强制占满一行 */
+  }
 }
 
 /* 3. 模态框（弹窗背景） */
@@ -151,6 +160,7 @@ redirect_from:
 }
 </style>
 
+<div class="news-grid">
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
@@ -185,6 +195,7 @@ redirect_from:
       <p>根据《中国科技论文与引文数据库》信息，采用定量分析（5年被引次数）和定性分析相结合的方法，对学术期刊的质量和影响力进行科学评价，遴选出精品科技期刊。每种精品期刊从5年间发表的论文中择优选取不超过20篇学术论文作为F5000的提名论文。提名论文再经过进一步遴选才能成为F5000论文。入选论文要求为各学科前1%高被引论文，且为原创性的科学研究或技术创新成果，能够反映期刊所在学科领域的最高学术水平。</p>
     </div>
   </div>
+</div>
 
 # 📝 Publications 
 📃 Papers
