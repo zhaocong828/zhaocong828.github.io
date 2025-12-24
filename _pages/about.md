@@ -52,6 +52,8 @@ redirect_from:
 - 浙江省道桥检测与养护技术研究重点实验室基金(2021), 基于时空数据匹配的路面服役状态大数据评价技术, 主持
 - 国家重点研发计划(2019), 港珠澳大桥智能化运维技术集成应用, 项目骨干
 
+
+# 📰🔥 News
 /* 此处为添加的新闻界面ccs样式 */
 <style>
 /* 1. 新闻容器：网格布局 */
@@ -61,7 +63,6 @@ redirect_from:
   gap: 20px;
   margin-top: 20px;
 }
-
 /* 2. 新闻卡片（预览状态） */
 .news-card {
   background-color: #fcfcfc;
@@ -75,13 +76,11 @@ redirect_from:
   transition: all 0.3s ease;
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
-
 .news-card:hover {
   transform: translateY(-5px); /* 悬停上浮 */
   box-shadow: 0 8px 15px rgba(0,0,0,0.1);
   border-color: #d9534f; /* 悬停边框变色 */
 }
-
 /* 给预览卡片底部加一个渐变遮罩，暗示还有内容 */
 .news-card::after {
   content: "";
@@ -93,7 +92,6 @@ redirect_from:
   background: linear-gradient(to bottom, rgba(252,252,252,0), rgba(252,252,252,1));
   pointer-events: none;
 }
-
 /* 3. 模态框（弹窗背景） */
 .news-modal-overlay {
   display: none; /* 默认隐藏 */
@@ -109,7 +107,6 @@ redirect_from:
   padding: 20px;
   backdrop-filter: blur(5px); /* 背景模糊效果 */
 }
-
 /* 4. 模态框内容区域（详细内容） */
 .news-modal-content {
   background-color: #fff;
@@ -123,13 +120,11 @@ redirect_from:
   box-shadow: 0 10px 30px rgba(0,0,0,0.3);
   animation: modalPop 0.3s ease-out;
 }
-
 /* 弹窗出来的动画 */
 @keyframes modalPop {
   from { transform: scale(0.9); opacity: 0; }
   to { transform: scale(1); opacity: 1; }
 }
-
 /* 关闭按钮 */
 .news-close-btn {
   position: absolute;
@@ -141,13 +136,11 @@ redirect_from:
   transition: color 0.2s;
   line-height: 1;
 }
-
 .news-close-btn:hover {
   color: #333;
 }
 </style>
 
-# 📰🔥 News
 <div class='paper-box' style="padding: 15px; background-color: #fcfcfc; border: 1px solid #eee; border-radius: 8px; margin-bottom: 20px;">
 <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
 <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
