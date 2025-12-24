@@ -316,7 +316,6 @@ Transportation Research Part C: Emerging Technologies
 
 </div>
 </div>
-<details>
 
 # 📚 Patents
 - 🔥`New！`A method for leakage detection of underground corridor based on static infrared thermal image processing(GB2569751)
