@@ -56,33 +56,35 @@ redirect_from:
 # 📰🔥 News
 
 <style>
-<!--此处为添加的新闻界面ccs样式-->
-<!-- 1. 新闻容器：网格布局-->
+/* 1. 新闻容器：网格布局 */
 .news-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));<!-- 自动适应列宽，手机单列，电脑多列 -->
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* 自动适应列宽，手机单列，电脑多列 */
   gap: 20px;
   margin-top: 20px;
 }
-<!-- 2. 新闻卡片（预览状态）-->
+
+/* 2. 新闻卡片（预览状态） */
 .news-card {
   background-color: #fcfcfc;
   border: 1px solid #eee;
   border-radius: 8px;
   padding: 20px;
-  cursor: pointer; <!-- 鼠标放上去变小手-->
+  cursor: pointer; /* 鼠标放上去变小手 */
   position: relative;
   overflow: hidden;
-  height: 200px; <!-- 预览卡片固定高度-->
+  height: 200px; /* 预览卡片固定高度 */
   transition: all 0.3s ease;
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
+
 .news-card:hover {
-  transform: translateY(-5px); <!-- 悬停上浮-->
+  transform: translateY(-5px); /* 悬停上浮 */
   box-shadow: 0 8px 15px rgba(0,0,0,0.1);
-  border-color: #d9534f; <!-- 悬停边框变色-->
+  border-color: #d9534f; /* 悬停边框变色 */
 }
-<!-- 给预览卡片底部加一个渐变遮罩，暗示还有内容-->
+
+/* 给预览卡片底部加一个渐变遮罩，暗示还有内容 */
 .news-card::after {
   content: "";
   position: absolute;
@@ -93,40 +95,44 @@ redirect_from:
   background: linear-gradient(to bottom, rgba(252,252,252,0), rgba(252,252,252,1));
   pointer-events: none;
 }
-<!-- 3. 模态框（弹窗背景）-->
+
+/* 3. 模态框（弹窗背景） */
 .news-modal-overlay {
-  display: none; <!-- 默认隐藏-->
+  display: none; /* 默认隐藏 */
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.6); <!-- 半透明黑色背景-->
+  background-color: rgba(0, 0, 0, 0.6); /* 半透明黑色背景 */
   z-index: 9999;
   justify-content: center;
   align-items: center;
   padding: 20px;
-  backdrop-filter: blur(5px); <!-- 背景模糊效果-->
+  backdrop-filter: blur(5px); /* 背景模糊效果 */
 }
-<!-- 4. 模态框内容区域（详细内容）-->
+
+/* 4. 模态框内容区域（详细内容） */
 .news-modal-content {
   background-color: #fff;
   width: 100%;
-  max-width: 800px; <!-- 最大宽度-->
-  max-height: 85vh; <!-- 最大高度不超过视窗的85%-->
-  overflow-y: auto; <!-- 内容多了可以滚动-->
+  max-width: 800px; /* 最大宽度 */
+  max-height: 85vh; /* 最大高度不超过视窗的85% */
+  overflow-y: auto; /* 内容多了可以滚动 */
   border-radius: 12px;
   padding: 40px;
   position: relative;
   box-shadow: 0 10px 30px rgba(0,0,0,0.3);
   animation: modalPop 0.3s ease-out;
 }
-<!-- 弹窗出来的动画-->
+
+/* 弹窗出来的动画 */
 @keyframes modalPop {
   from { transform: scale(0.9); opacity: 0; }
   to { transform: scale(1); opacity: 1; }
 }
-<!-- 关闭按钮-->
+
+/* 关闭按钮 */
 .news-close-btn {
   position: absolute;
   top: 15px;
@@ -137,53 +143,12 @@ redirect_from:
   transition: color 0.2s;
   line-height: 1;
 }
+
 .news-close-btn:hover {
   color: #333;
 }
 </style>
 
-<div class='paper-box' style="padding: 15px; background-color: #fcfcfc; border: 1px solid #eee; border-radius: 8px; margin-bottom: 20px;">
-<div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
-<span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
-<span style="vertical-align: middle;">刘成龙副教授获批国家自然科学基金交叉科学部青年B类项目</span>
-</div>
-<div style="color: #555; font-size: 0.95em;">
-近日，国家自然科学基金委员会公布了2025年度项目评审结果，同济大学智能交通新兴计算与感知课题组（STEP）刘成龙副教授申报的国家自然科学基金青年科学基金B类项目（原国家优青项目）顺利获批。这是团队在交通基础设施数字化运维管理领域长期科研积累与创新贡献的充分肯定。
-
-刘成龙副教授长期致力于道路工程与信息工程交叉研究，在交通基础设施数字化感知、智能诊断与运维决策方面取得了系列创新成果，研究成果在AIC、Transport Res. C、IEEE Trans. ITS、中国公路学报等高水平期刊会议发表研究论文100余篇，多项研究成果相继被遴选为IEEE ITSM封面论文、中国公路学报年度优秀论文、ESI高被引论文、ESI热点论文、中国知网高被引、高下载、高PCSI论文、交通部重大科技成果、COTA Best Presentation Award等。相关成果获授权中国、美国、英国、国际专利40余项，荣获中国专利优秀奖、上海市百强高价值专利，并实现了千万级成果转化与产业化应用。获得上海市科技进步一等奖、中国公路学会科学技术一等奖、中国交通运输协会科学进步一等奖、中国发明协会发明创新一等奖等奖励。
-
-此次立项将进一步推动课题组在智能交通基础设施数字化与智慧运维方向的科研布局，助力我国交通基础设施高质量发展。课题组全体成员对刘成龙副教授表示热烈祝贺，并期待项目顺利实施，取得更多突破性成果。
-</div>
-</div>
-
-<div class='paper-box' style="padding: 15px; background-color: #fcfcfc; border: 1px solid #eee; border-radius: 8px; margin-bottom: 20px;">
-<div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
-<span style="vertical-align: middle;">团队与斯坦福大学合作成果发表于Nature子刊《Scientific Data》
-</span>
-</div>
-<div style="color: #555; font-size: 0.95em;">
-团队联合斯坦福大学Martin Fischer教授团队共同完成的研究成果——《A Large-Scale Image Repository for Automated Pavement Distress Analysis and Degradation Trend Prediction》（大规模自动化路面病害分析与退化趋势预测图像库）及其配套数据集 PaveTrack，正式发表于Nature旗下期刊 Scientific Data。
-
-该论文的第一作者为同济大学交通运输工程学院2024级硕士研究生杨瀚霖，刘成龙副教授与杜豫川教授担任共同通讯作者。
-
-PaveTrack 数据集收录了来自中国与美国的近6万张路面病害图像，覆盖裂缝、坑槽、龟裂等10类病害，共计18万条精细标注信息。同时，团队首次公开了约9000张病害发育动态追踪图像，对165个道路位点进行了连续检测与跟踪，为深入揭示路面病害演化机理及退化趋势预测提供了坚实的数据支撑。
-目前，PaveTrack 数据集已在 Science Data Bank 正式开放，研究人员可通过以下[链接](https://doi.org/10.57760/sciencedb.20383)获取
-</div>
-</div>
-
-<div class='paper-box' style="padding: 15px; background-color: #fcfcfc; border: 1px solid #eee; border-radius: 8px; margin-bottom: 20px;">
-<div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
-<span style="vertical-align: middle;">团队成果《新一代智慧高速公路系统架构设计》入选2025领跑者5000（F5000）顶尖论文
-</span>
-</div>
-<div style="color: #555; font-size: 0.95em;">
-近日，中国科学技术信息研究所发布了2025年度“领跑者5000-中国精品科技期刊顶尖学术论文”（简称F5000）入选名单。由团队杜豫川教授作为第一作者，刘成龙副教授作为通讯作者，在《中国公路学报》发表的《新一代智慧高速公路系统架构设计》一文入选2025领跑者5000（F5000）顶尖论文。
-  
-该成果以前瞻性的系统思维重新定义了智慧高速的顶层架构，为国家高速公路的数字化转型和代际演进提供了具有前瞻性的理论框架和技术蓝图，此前，该成果已入选高被引、高影响、高PCSI论文，获得中国公路学报年度优秀论文。
-
-根据《中国科技论文与引文数据库》信息，采用定量分析（5年被引次数）和定性分析相结合的方法，对学术期刊的质量和影响力进行科学评价，遴选出精品科技期刊。每种精品期刊从5年间发表的论文中择优选取不超过20篇学术论文作为F5000的提名论文。提名论文再经过进一步遴选才能成为F5000论文。入选论文要求为各学科前1%高被引论文，且为原创性的科学研究或技术创新成果，能够反映期刊所在学科领域的最高学术水平。
-</div>
-</div>
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
@@ -191,8 +156,7 @@ PaveTrack 数据集收录了来自中国与美国的近6万张路面病害图像
     </div>
     <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
       <p>近日，国家自然科学基金委员会公布了2025年度项目评审结果，同济大学智能交通新兴计算与感知课题组（STEP）刘成龙副教授申报的国家自然科学基金青年科学基金B类项目（原国家优青项目）顺利获批。这是团队在交通基础设施数字化运维管理领域长期科研积累与创新贡献的充分肯定。</p>
-      <p>刘成龙副教授长期致力于道路工程与信息工程交叉研究，在交通基础设施数字化感知、智能诊断与运维决策方面取得了系列创新成果...（点击查看详情）</p>
-      <p>相关成果获授权中国、美国、英国、国际专利40余项，荣获中国专利优秀奖、上海市百强高价值专利，并实现了千万级成果转化与产业化应用。获得上海市科技进步一等奖、中国公路学会科学技术一等奖、中国交通运输协会科学进步一等奖、中国发明协会发明创新一等奖等奖励。</p>
+      <p>刘成龙副教授长期致力于道路工程与信息工程交叉研究，在交通基础设施数字化感知、智能诊断与运维决策方面取得了系列创新成果，研究成果在AIC、Transport Res. C、IEEE Trans. ITS、中国公路学报等高水平期刊会议发表研究论文100余篇，多项研究成果相继被遴选为IEEE ITSM封面论文、中国公路学报年度优秀论文、ESI高被引论文、ESI热点论文、中国知网高被引、高下载、高PCSI论文、交通部重大科技成果、COTA Best Presentation Award等。相关成果获授权中国、美国、英国、国际专利40余项，荣获中国专利优秀奖、上海市百强高价值专利，并实现了千万级成果转化与产业化应用。获得上海市科技进步一等奖、中国公路学会科学技术一等奖、中国交通运输协会科学进步一等奖、中国发明协会发明创新一等奖等奖励。</p>
       <p>此次立项将进一步推动课题组在智能交通基础设施数字化与智慧运维方向的科研布局，助力我国交通基础设施高质量发展。课题组全体成员对刘成龙副教授表示热烈祝贺，并期待项目顺利实施，取得更多突破性成果。</p>
     </div>
   </div>
@@ -216,6 +180,7 @@ PaveTrack 数据集收录了来自中国与美国的近6万张路面病害图像
     <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
       <p>近日，中国科学技术信息研究所发布了2025年度“领跑者5000-中国精品科技期刊顶尖学术论文”（简称F5000）入选名单。由团队杜豫川教授作为第一作者，刘成龙副教授作为通讯作者，在《中国公路学报》发表的《新一代智慧高速公路系统架构设计》一文入选2025领跑者5000（F5000）顶尖论文。</p>
       <p>该成果以前瞻性的系统思维重新定义了智慧高速的顶层架构，为国家高速公路的数字化转型和代际演进提供了具有前瞻性的理论框架和技术蓝图，此前，该成果已入选高被引、高影响、高PCSI论文，获得中国公路学报年度优秀论文。</p>
+      <p>根据《中国科技论文与引文数据库》信息，采用定量分析（5年被引次数）和定性分析相结合的方法，对学术期刊的质量和影响力进行科学评价，遴选出精品科技期刊。每种精品期刊从5年间发表的论文中择优选取不超过20篇学术论文作为F5000的提名论文。提名论文再经过进一步遴选才能成为F5000论文。入选论文要求为各学科前1%高被引论文，且为原创性的科学研究或技术创新成果，能够反映期刊所在学科领域的最高学术水平。</p>
     </div>
   </div>
 
@@ -623,40 +588,40 @@ Transportation Research Part C: Emerging Technologies
 </div>
 
 <script>
-  <!-- 获取元素-->
+  // 获取元素
   var modal = document.getElementById("newsModal");
   var modalBody = document.getElementById("modalBody");
   var closeBtn = document.getElementsByClassName("news-close-btn")[0];
   var cards = document.querySelectorAll(".news-card");
 
-  <!-- 为每个卡片添加点击事件-->
+  // 为每个卡片添加点击事件
   cards.forEach(function(card) {
     card.addEventListener("click", function() {
-      <!-- 1. 获取当前点击卡片的 HTML 内容-->
+      // 1. 获取当前点击卡片的 HTML 内容
       var content = this.innerHTML;
       
-      <!-- 2. 将内容注入到模态框中-->
+      // 2. 将内容注入到模态框中
       modalBody.innerHTML = content;
       
-      <!-- 3. 显示模态框-->
+      // 3. 显示模态框
       modal.style.display = "flex";
       
-      <!-- 4. 锁定背景滚动（可选）-->
+      // 4. 锁定背景滚动（可选）
       document.body.style.overflow = "hidden";
     });
   });
 
-  <!-- 关闭功能：点击关闭按钮-->
+  // 关闭功能：点击关闭按钮
   closeBtn.onclick = function() {
     modal.style.display = "none";
-    document.body.style.overflow = "auto"; <!-- 恢复滚动-->
+    document.body.style.overflow = "auto"; // 恢复滚动
   }
 
-  <!-- 关闭功能：点击模态框外部空白区域-->
+  // 关闭功能：点击模态框外部空白区域
   window.onclick = function(event) {
     if (event.target == modal) {
       modal.style.display = "none";
-      document.body.style.overflow = "auto"; <!-- 恢复滚动-->
+      document.body.style.overflow = "auto"; // 恢复滚动
     }
   }
 </script>
