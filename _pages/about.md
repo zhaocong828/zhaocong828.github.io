@@ -184,6 +184,30 @@ PaveTrack 数据集收录了来自中国与美国的近6万张路面病害图像
 根据《中国科技论文与引文数据库》信息，采用定量分析（5年被引次数）和定性分析相结合的方法，对学术期刊的质量和影响力进行科学评价，遴选出精品科技期刊。每种精品期刊从5年间发表的论文中择优选取不超过20篇学术论文作为F5000的提名论文。提名论文再经过进一步遴选才能成为F5000论文。入选论文要求为各学科前1%高被引论文，且为原创性的科学研究或技术创新成果，能够反映期刊所在学科领域的最高学术水平。
 </div>
 </div>
+<div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
+      <span style="vertical-align: middle;">刘成龙副教授获批国家自然科学基金交叉科学部青年B类项目</span>
+    </div>
+    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
+      <p>近日，国家自然科学基金委员会公布了2025年度项目评审结果，同济大学智能交通新兴计算与感知课题组（STEP）刘成龙副教授申报的国家自然科学基金青年科学基金B类项目（原国家优青项目）顺利获批。这是团队在交通基础设施数字化运维管理领域长期科研积累与创新贡献的充分肯定。</p>
+      <p>刘成龙副教授长期致力于道路工程与信息工程交叉研究，在交通基础设施数字化感知、智能诊断与运维决策方面取得了系列创新成果...（点击查看详情）</p>
+      <p>相关成果获授权中国、美国、英国、国际专利40余项，荣获中国专利优秀奖、上海市百强高价值专利，并实现了千万级成果转化与产业化应用。获得上海市科技进步一等奖、中国公路学会科学技术一等奖、中国交通运输协会科学进步一等奖、中国发明协会发明创新一等奖等奖励。</p>
+      <p>此次立项将进一步推动课题组在智能交通基础设施数字化与智慧运维方向的科研布局，助力我国交通基础设施高质量发展。课题组全体成员对刘成龙副教授表示热烈祝贺，并期待项目顺利实施，取得更多突破性成果。</p>
+    </div>
+  </div>
+
+  <div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
+      <span style="vertical-align: middle;">团队与斯坦福大学合作成果发表于Nature子刊《Scientific Data》</span>
+    </div>
+    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
+      <p>团队联合斯坦福大学Martin Fischer教授团队共同完成的研究成果——《A Large-Scale Image Repository for Automated Pavement Distress Analysis and Degradation Trend Prediction》（大规模自动化路面病害分析与退化趋势预测图像库）及其配套数据集 PaveTrack，正式发表于Nature旗下期刊 Scientific Data。</p>
+      <p>该论文的第一作者为同济大学交通运输工程学院2024级硕士研究生杨瀚霖，刘成龙副教授与杜豫川教授担任共同通讯作者。</p>
+      <p>PaveTrack 数据集收录了来自中国与美国的近6万张路面病害图像，覆盖裂缝、坑槽、龟裂等10类病害，共计18万条精细标注信息。同时，团队首次公开了约9000张病害发育动态追踪图像，对165个道路位点进行了连续检测与跟踪，为深入揭示路面病害演化机理及退化趋势预测提供了坚实的数据支撑。</p>
+      <p>目前，PaveTrack 数据集已在 Science Data Bank 正式开放，研究人员可通过以下<a href="https://doi.org/10.57760/sciencedb.20383">链接</a>获取。</p>
+    </div>
+  </div>
 
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
