@@ -376,18 +376,116 @@ Transportation Research Part C: Emerging Technologies
 - 中国公路学会科学技术奖**一等奖**(2017)《轻量化沥青路面行驶质量快速检测系统》
 
 # 🧑‍💻 People
-**Postdoc**
+<style>
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* 响应式布局 */
+  gap: 20px;
+  margin-bottom: 30px;
+}
+.person-card {
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  padding: 15px;
+  background: #fff;
+  transition: transform 0.2s;
+}
+.person-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.person-name {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #24292e;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+}
+.person-desc {
+  font-size: 0.9em;
+  color: #586069;
+  line-height: 1.5;
+}
+/* 招聘卡片样式 */
+.hiring-card {
+  border: 2px dashed #0366d6; /* 蓝色虚线框 */
+  background: #f1f8ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 100px;
+  cursor: pointer;
+}
+.hiring-text {
+  color: #0366d6;
+  font-weight: bold;
+}
+</style>
+<h3>Postdoc / Research Fellow</h3>
+<div class="people-grid">
+  <div class="person-card hiring-card" onclick="location.href='mailto:14lcl_tj@tongji.edu.cn';">
+    <div class="hiring-text">
+      <i class="fas fa-user-plus"></i> Openings Available<br>
+      <span style="font-size:0.8em; font-weight:normal;">Looking for talented Postdocs.<br>Click to email me!</span>
+    </div>
+  </div>
+</div>
+<h3>PhD Students</h3>
+<div class="people-grid">
+  <div class="person-card hiring-card" onclick="location.href='mailto:14lcl_tj@tongji.edu.cn';">
+    <div class="hiring-text">
+      <i class="fas fa-graduation-cap"></i> PhD Positions Open<br>
+      <span style="font-size:0.8em; font-weight:normal;">Welcome to join STEP Lab!</span>
+    </div>
+  </div>
+</div>
+<h3>Master Students</h3>
+<div class="people-grid">
+  
+  <div class="person-card">
+    <div class="person-name">
+      <a href="https://henryyang-1.github.io/" target="_blank">Hanlin Yang (2024.9-)</a>
+    </div>
+    <div class="person-desc">
+      Research interests: Intelligent transportation infrastructure and road maintenance decision-making.
+    </div>
+  </div>
 
+  <div class="person-card">
+    <div class="person-name">Jun Wan (2025.9-)</div>
+    <div class="person-desc">
+      Research interests: Traffic incident detection and road maintenance decision-making.
+    </div>
+  </div>
 
-**PhD Students**
-
-
-**Master Students**
+</div>
 - [Hanlin Yang](https://henryyang-1.github.io/)(2024.9-, Research interests include intelligent transportation infrastructure and road maintenance decision-making.)
 - Jun Wan(2025.9-, Research interests include traffic incident detection and road maintenance decision-making within intelligent transportation infrastructure.)
+<h3>Undergraduate Students</h3>
+<div class="people-grid">
+  
+  <div class="person-card">
+    <div class="person-name">Enze Wang (2022.9-)</div>
+    <div class="person-desc">
+      Research interests: Automated road infrastructure inspection and maintenance augmented by LLM and embodied AI.
+    </div>
+  </div>
 
-**Undergraduate Students**
-- Enze Wang(2022.9-2026.7, Research interests include automated road infrastructure inspection and maintenance augmented by LLM and embodied AI)
-- Jingtai Luo(2022.9-2026.7, Research interests include AI-supported intelligent infrastructure and pavement defect detection algorithms.)
+  <div class="person-card">
+    <div class="person-name">Jingtai Luo (2022.9-)</div>
+    <div class="person-desc">
+      Research interests: AI-supported intelligent infrastructure and pavement defect detection algorithms.
+    </div>
+  </div>
 
-**Visiting Students**
+</div>
+<h3>Visiting Students</h3>
+<div class="people-grid">
+   <div class="person-card hiring-card" style="border-color: #aaa; background: #f9f9f9;">
+    <div class="hiring-text" style="color: #666;">
+       Open for Visiting Students
+    </div>
+  </div>
+</div>
