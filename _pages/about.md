@@ -56,8 +56,8 @@ redirect_from:
 # 📰🔥 News
 
 <style>
-% 此处为添加的新闻界面ccs样式
-% 1. 新闻容器：网格布局
+<!--此处为添加的新闻界面ccs样式-->
+<!-- 1. 新闻容器：网格布局-->
 .news-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));% 自动适应列宽，手机单列，电脑多列 
