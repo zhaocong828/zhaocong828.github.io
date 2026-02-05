@@ -17,29 +17,33 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-刘成龙，同济大学交通学院研究员/副教授，交通科学与技术研究院副院长。入选国家自然科学基金B类（原国家优青项目）、上海35人青年科技引领计划、上海市启明星科技人才、中国公路学会青年托举人才等。主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化运维管理。担任联合国交通领域受聘顾问、世界交通运输大会（WTC）、美国交通运输委员会(TRB)、中国交通运输协会（CTA）等技术委员、节能与新能源汽车技术路线图主要执笔人、International Journal of Transportation Science and Technology（JCR-Q1）青年编委以及60余本SCI期刊的特邀审稿人。
+Dr. Chenglong Liu is currently a Research Fellow and Associate Professor at the College of Transportation Engineering, Tongji University, where he also serves as the Deputy Dean of the Institute of Transport Science and Technology. He has been selected for several prestigious talent programs, including the National Science Fund for Excellent Young Scholars (Type B), the Shanghai "35 Under 35" Technology Leaders, the Shanghai Rising-Star Program, and the Young Elite Scientists Sponsorship Program by the China Highway and Transportation Society (CHTS).
+Dr. Liu’s research focuses on the interdisciplinary intersection of Road Engineering and Information Engineering, with a specific emphasis on the digital operation and maintenance (O&M) management of transportation infrastructure.
+He serves as an appointed consultant for the United Nations in the field of transportation and holds technical committee memberships in the World Transport Convention (WTC), the Transportation Research Board (TRB), and the China Transportation Association (CTA). He was a lead author for the Energy-saving and New Energy Vehicle Technology Roadmap. Additionally, he serves as a Young Editorial Board Member for the International Journal of Transportation Science and Technology (JCR-Q1) and is an invited reviewer for over 60 SCI-indexed journals.
 
-研究成果在AIC、Transport Res. C、IEEE Trans. ITS、中国公路学报等高水平期刊会议发表研究论文100余篇，多项研究成果相继被遴选为IEEE ITSM封面论文、中国公路学报年度优秀论文、ESI高被引论文、ESI热点论文、中国知网高被引、高下载、高PCSI论文、交通部重大科技成果、COTA Best Presentation Award等。相关成果获授权中国、美国、英国、国际专利40余项，荣获中国专利优秀奖、上海市百强高价值专利，并实现了千万级成果转化与产业化应用，覆盖全国二十余省份应用里程超40万公里。获得上海市科技进步一等奖、中国公路学会科学技术特等奖/一等奖、中国交通运输协会科学进步一等奖、中国发明协会发明创新一等奖等奖励。
+Dr. Liu has published over 100 research papers in top-tier journals and conferences, including AIC、Transport Res. C、IEEE Trans. ITS, and the China Journal of Highway and Transport.
+Multiple research outcomes have been selected as IEEE ITSM Cover Papers, Annual Excellent Papers of China Journal of Highway and Transport, ESI Highly Cited Papers, ESI Hot Papers, CNKI Highly Cited/Downloaded/High PCSI Papers, Major Scientific and Technological Achievements of the Ministry of Transport, and COTA Best Presentation Awards. Related achievements have been granted over 40 patents in China, the United States, the United Kingdom, and international patents. He has been honored with the China Patent Excellence Award and the Shanghai Top 100 High-Value Patents. His work has achieved result transformation and industrial application worth over 10 million RMB, covering more than 400,000 kilometers across over 20 provinces in China. He has received awards including the First Prize of the Shanghai Science and Technology Progress Award, the Grand Prize/First Prize of the Science and Technology Award of the China Highway and Transportation Society, the First Prize of the Science and Technology Progress Award of the China Transportation Association, and the First Prize for Invention and Innovation by the China Invention Association.
 
-主讲人工智能科学与技术、交通数据分析、计算机视觉、交通科技竞赛等交叉学科课程，获同济大学青年教师竞赛一等奖。指导本科生、研究生获得全国交通科技大赛一等奖、SODIC全球开放数据应用创新大赛分赛道冠军、长三角数据开放创新应用大赛一等奖、全国互联网+大学生创新创业大赛银奖（上海市金奖）、等荣誉。指导的多位本科生、研究生毕业赴UC-Berkeley、Cambridge、清华大学、北京大学、同济大学等国内外一流高校深造。
+He teaches interdisciplinary courses such as AI Science and Technology, Transportation Data Analysis, Computer Vision, and Transportation Technology Competitions, and won the First Prize in the Young Teachers' Teaching Competition at Tongji University. He has supervised undergraduate and graduate students to win the First Prize in the National Undergraduate Transportation Science and Technology Competition, the Track Champion of the SODIC Global Open Data Application Innovation Contest, the First Prize in the Yangtze River Delta Open Data Innovation Application Competition, and the Silver Award in the National "Internet+" College Students Innovation and Entrepreneurship Competition (Gold Award in Shanghai). Many of the undergraduate and graduate students he supervised have gone on to further studies at top domestic and international universities such as UC Berkeley, Cambridge, Tsinghua University, Peking University, and Tongji University.
 
-研究方向：设施数字化感知、数字孪生、智慧城市、人工智能应用
+Research Interests: Digital Sensing of Infrastructure, Digital Twins, Smart Cities, AI Applications
 
-主讲课程：
-- 本科生：人工智能科学与技术（信息与智能网联类）、计算机视觉、智能交通基础、智能交通运输系统、运输经济学（中文/英文）、交通科技创新竞赛
-- 研究生：交通数据分析与应用、交通可持续发展理论、环境友好型路面技术（联合国环境规划署）
+Courses Taught: 
+Undergraduate: AI Science and Technology (Information & Intelligent Connectivity), Computer Vision, Fundamentals of Intelligent Transportation, Intelligent Transportation Systems, Transport Economics (Chinese/English), Transportation Technology Innovation Competition 
+Graduate: Transportation Data Analysis and Application, Theory of Sustainable Transportation Development, Environmentally Friendly Pavement Technology (UNEP)
+
 
 # 📖 Educations
-- *2010.09 - 2014.06*, [同济大学](https://www.tongji.edu.cn/), 交通工程, 学士.
-- *2017.09 - 2018.09*, [华盛顿大学](https://www.washington.edu/), 土木环境工程, 联合培养博士.
-- *2014.09 - 2019.06*, [同济大学](https://www.tongji.edu.cn/), 交通运输工程, 博士.
+- *2010.09 - 2014.06*, [Tongji University](https://www.tongji.edu.cn/), B.E. in Traffic Engineering.
+- *2017.09 - 2018.09*, [University of Washington](https://www.washington.edu/), Joint Ph.D. Student in Civil & Environmental Engineering.
+- *2014.09 - 2019.06*, [Tongji University](https://www.tongji.edu.cn/), Ph.D. in Transportation Engineering.
 
 # 💻 Professional Experiences
-- *2019.12 - 2022.12*, [同济大学](https://www.tongji.edu.cn/), 交通运输工程学院, 博士后.
-- *2021.05 - 2024.03*, [同济大学](https://www.tongji.edu.cn/), 交通运输工程学院, 副研究员.
-- *2023.02 - 至今*   , [同济大学](https://www.tongji.edu.cn/), 交通运输工程学院, 副教授.
-- *2024.01 - 至今* ,   [同济大学](https://www.tongji.edu.cn/), 交通科学与技术研究院, 副院长.
-- *2024.03 - 至今* ,   [同济大学](https://www.tongji.edu.cn/), 交通运输工程学院, 研究员.
+- *2019.12 - 2022.12*, [Tongji University](https://www.tongji.edu.cn/), Postdoctoral Fellow, College of Transportation.
+- *2021.05 - 2024.03*, [Tongji University](https://www.tongji.edu.cn/), Associate Research Fellow, College of Transportation.
+- *2023.02 - 至今*   , [Tongji University](https://www.tongji.edu.cn/), Associate Professor, College of Transportation.
+- *2024.01 - 至今* ,   [Tongji University](https://www.tongji.edu.cn/), Deputy Dean, Institute of Transport Science and Technology.
+- *2024.03 - 至今* ,   [Tongji University](https://www.tongji.edu.cn/), Research Fellow (Professor Level), College of Transportation.
 
 # 🔍 Projects
 - 🔥`New！`国家自然科学基金交叉科学部青年B类项目, 主持
