@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "刘成龙"
-description              : "同济大学"
-description1             : "交通科学与技术研究院 副院长"
+title                    : "刘成龙 Chenglong Liu"
+description              : "同济大学 Tongji University"
+description1             : "交通科学与技术研究院 副院长 Deputy Dean, Institute of Transport Science and Technology"
 description5             : "STEP课题组"
 repository               : "Charley33301/Charley33301.github.io"
 google_scholar_stats_use_cdn : true
