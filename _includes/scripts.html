@@ -107,26 +107,22 @@
 
     // 检测逻辑
     if (currentPath.indexOf('/cn/') > -1) {
-        // === 当前在中文环境 ===
+        // === 当前是中文版 ===
         labelText.innerText = "当前语言";
-        statusText.innerText = "中文"; // 明确显示当前是中文
+        statusText.innerText = "中文 Chinese";
         
-        // 点击行为：去英文版
-        btn.onclick = function() {
-            window.location.href = "{{ '/' | relative_url }}";
-        };
-        btn.title = "点击切换到英文版 (Switch to English)"; // 鼠标停留提示
+        // 直接设置目标链接为英文版首页
+        btn.href = "{{ '/' | relative_url }}";
+        btn.title = "点击切换到英文版 (Switch to English)";
         
     } else {
-        // === 当前在英文环境 ===
+        // === 当前是英文版 ===
         labelText.innerText = "Language";
-        statusText.innerText = "English"; // 明确显示当前是英文
+        statusText.innerText = "English";
         
-        // 点击行为：去中文版
-        btn.onclick = function() {
-            window.location.href = "{{ '/cn/' | relative_url }}";
-        };
-        btn.title = "Click to switch to Chinese (切换到中文版)"; // 鼠标停留提示
+        // 直接设置目标链接为中文版首页
+        btn.href = "{{ '/cn/' | relative_url }}";
+        btn.title = "Click to switch to Chinese (切换到中文版)";
     }
 })();
 </script>
