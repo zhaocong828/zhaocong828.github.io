@@ -49,7 +49,7 @@ cn:
     url: "/cn/#-publications"
 
   - title: "专利"
-    url: "/#-patents"
+    url: "/cn/#-patents"
     
   - title: "荣誉奖项"
     url: "/cn/#-honors-and-awards"
