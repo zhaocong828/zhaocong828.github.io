@@ -105,6 +105,8 @@
     var labelText = btn.querySelector('.lang-label');
     var currentPath = window.location.pathname;
 
+    btn.setAttribute('target', '_self');
+
     // 检测逻辑
     if (currentPath.indexOf('/cn/') > -1) {
         // === 当前是中文版 ===
