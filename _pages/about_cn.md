@@ -30,19 +30,19 @@ redirect_from:
 研究生：交通数据分析与应用、交通可持续发展理论、环境友好型路面技术（联合国环境规划署）
 
 
-# 📖 Educations
+# 📖 教育经历
 - *2010.09 - 2014.06*, [同济大学](https://www.tongji.edu.cn/), 交通工程, 学士.
 - *2017.09 - 2018.09*, [华盛顿大学](https://www.washington.edu/), 土木环境工程, 联合培养博士.
 - *2014.09 - 2019.06*, [同济大学](https://www.tongji.edu.cn/), 交通运输工程, 博士.
 
-# 💻 Professional Experiences
+# 💻 工作经历
 - *2019.12 - 2022.12*, [同济大学](https://www.tongji.edu.cn/), 交通学院, 博士后.
 - *2021.05 - 2024.03*, [同济大学](https://www.tongji.edu.cn/), 交通学院, 副研究员.
 - *2023.02 - Present* , [同济大学](https://www.tongji.edu.cn/), 交通学院, 副教授.
 - *2024.01 - Present* , [同济大学](https://www.tongji.edu.cn/), 交通科学与技术研究院, 副院长.
 - *2024.03 - Present* , [同济大学](https://www.tongji.edu.cn/), 交通学院, 研究员.
 
-# 🔍 Projects
+# 🔍 科研项目
 - 🔥`New！`国家自然科学基金交叉科学部青年B类项目, 主持
 - 🔥`New！`国家自然科学基金面上项目, 知识启发的生成式道路养护决策方法研究, 主持
 - 国家重点研发计划(2023), 智能网联道路交通系统的能源自洽技术, 子课题主持
@@ -54,7 +54,7 @@ redirect_from:
 - 国家重点研发计划(2019), 港珠澳大桥智能化运维技术集成应用, 项目骨干
 
 
-# 📰🔥 News
+# 📰🔥 新闻动态
 
 <style>
 /* 1. 新闻容器：弹性布局 */
@@ -266,8 +266,8 @@ redirect_from:
   
 </div>
 
-# 📝 Publications 
-📃 Papers
+# 📝 论文发表
+📃 文章
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/18.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
@@ -513,7 +513,7 @@ Transportation Research Part C: Emerging Technologies
 </div>
 </details>
 
-# 📚 Patents
+# 📚 专利
 - 🔥`New！`A method for leakage detection of underground corridor based on static infrared thermal image processing(GB2569751)
 - 🔥`New！`Comfort-based self-driving planning method(US 11,447,150 B2)
 - Method of controlling automated driving speed based on comfort level(WO/2018/122586)
@@ -526,8 +526,8 @@ Transportation Research Part C: Emerging Technologies
 - 一种基于多源特征融合的路面损伤数据时空分析方法	ZL202110074435.0
 
 
-# 🏆 Honors and Awards
-🏅 Honors
+# 🏆 荣誉奖项
+🏅 荣誉
 - 🔥`New！`	同济大学教学成果奖**二等奖**（2025）明体达用、智慧赋能：《交通数据分析与应用》课程建设与创新教学实践
 - 🔥`New！`同济大学青年教师教学竞赛**一等奖**（2025）《计算机视觉》
 - 🔥`New！`北京市科技进步奖**二等奖**（2025）《城市道路智能巡检与精细管养关键技术及工程应用》
@@ -545,7 +545,7 @@ Transportation Research Part C: Emerging Technologies
 - 上海市科技进步**一等奖**(2019) 《路面多维高频检测装备和智能养护技术及应用》
 - 中国公路学会科学技术奖**一等奖**(2017)《轻量化沥青路面行驶质量快速检测系统》
 
-# 🧑‍💻 People
+# 🧑‍💻 团队成员
 <style>
 .people-grid {
   display: grid;
