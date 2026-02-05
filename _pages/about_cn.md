@@ -29,12 +29,13 @@ redirect_from:
 本科生：人工智能科学与技术（信息与智能网联类）、计算机视觉、智能交通基础、智能交通运输系统、运输经济学（中文/英文）、交通科技创新竞赛
 研究生：交通数据分析与应用、交通可持续发展理论、环境友好型路面技术（联合国环境规划署）
 
-
+<span class='anchor' id='-educations'></span>
 # 📖 教育经历
 - *2010.09 - 2014.06*, [同济大学](https://www.tongji.edu.cn/), 交通工程, 学士.
 - *2017.09 - 2018.09*, [华盛顿大学](https://www.washington.edu/), 土木环境工程, 联合培养博士.
 - *2014.09 - 2019.06*, [同济大学](https://www.tongji.edu.cn/), 交通运输工程, 博士.
 
+<span class='anchor' id='-professional-experiences'></span>
 # 💻 工作经历
 - *2019.12 - 2022.12*, [同济大学](https://www.tongji.edu.cn/), 交通学院, 博士后.
 - *2021.05 - 2024.03*, [同济大学](https://www.tongji.edu.cn/), 交通学院, 副研究员.
@@ -42,6 +43,7 @@ redirect_from:
 - *2024.01 - Present* , [同济大学](https://www.tongji.edu.cn/), 交通科学与技术研究院, 副院长.
 - *2024.03 - Present* , [同济大学](https://www.tongji.edu.cn/), 交通学院, 研究员.
 
+<span class='anchor' id='-projects'></span>
 # 🔍 科研项目
 - 🔥`New！`国家自然科学基金交叉科学部青年B类项目, 主持
 - 🔥`New！`国家自然科学基金面上项目, 知识启发的生成式道路养护决策方法研究, 主持
@@ -53,7 +55,7 @@ redirect_from:
 - 浙江省道桥检测与养护技术研究重点实验室基金(2021), 基于时空数据匹配的路面服役状态大数据评价技术, 主持
 - 国家重点研发计划(2019), 港珠澳大桥智能化运维技术集成应用, 项目骨干
 
-
+<span class='anchor' id='news'></span>
 # 📰🔥 新闻动态
 
 <style>
@@ -266,6 +268,7 @@ redirect_from:
   
 </div>
 
+<span class='anchor' id='-publications'></span>
 # 📝 论文发表
 📃 文章
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/18.png' alt="sym" width="100%"></div></div>
@@ -513,6 +516,7 @@ Transportation Research Part C: Emerging Technologies
 </div>
 </details>
 
+<span class='anchor' id='-patents'></span>
 # 📚 专利
 - 🔥`New！`A method for leakage detection of underground corridor based on static infrared thermal image processing(GB2569751)
 - 🔥`New！`Comfort-based self-driving planning method(US 11,447,150 B2)
@@ -525,7 +529,7 @@ Transportation Research Part C: Emerging Technologies
 - 一种路面损伤快速检测和自然数据集构建方法	ZL202110073970.4
 - 一种基于多源特征融合的路面损伤数据时空分析方法	ZL202110074435.0
 
-
+<span class='anchor' id='-honors-and-awards'></span>
 # 🏆 荣誉奖项
 🏅 荣誉
 - 🔥`New！`	同济大学教学成果奖**二等奖**（2025）明体达用、智慧赋能：《交通数据分析与应用》课程建设与创新教学实践
@@ -545,6 +549,7 @@ Transportation Research Part C: Emerging Technologies
 - 上海市科技进步**一等奖**(2019) 《路面多维高频检测装备和智能养护技术及应用》
 - 中国公路学会科学技术奖**一等奖**(2017)《轻量化沥青路面行驶质量快速检测系统》
 
+<span class='anchor' id='people'></span>
 # 🧑‍💻 团队成员
 <style>
 .people-grid {
