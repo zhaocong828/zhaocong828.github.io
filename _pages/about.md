@@ -41,9 +41,9 @@ Graduate: Transportation Data Analysis and Application, Theory of Sustainable Tr
 # 💻 Professional Experiences
 - *2019.12 - 2022.12*, [Tongji University](https://www.tongji.edu.cn/), Postdoctoral Fellow, College of Transportation.
 - *2021.05 - 2024.03*, [Tongji University](https://www.tongji.edu.cn/), Associate Research Fellow, College of Transportation.
-- *2023.02 - 至今*   , [Tongji University](https://www.tongji.edu.cn/), Associate Professor, College of Transportation.
-- *2024.01 - 至今* ,   [Tongji University](https://www.tongji.edu.cn/), Deputy Dean, Institute of Transport Science and Technology.
-- *2024.03 - 至今* ,   [Tongji University](https://www.tongji.edu.cn/), Research Fellow (Professor Level), College of Transportation.
+- *2023.02 - Present*   , [Tongji University](https://www.tongji.edu.cn/), Associate Professor, College of Transportation.
+- *2024.01 - Present* ,   [Tongji University](https://www.tongji.edu.cn/), Deputy Dean, Institute of Transport Science and Technology.
+- *2024.03 - Present* ,   [Tongji University](https://www.tongji.edu.cn/), Research Fellow (Professor Level), College of Transportation.
 
 # 🔍 Projects
 - 🔥`New！`国家自然科学基金交叉科学部青年B类项目, 主持
