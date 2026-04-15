@@ -5,14 +5,14 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           
-          {% if page.url contains '/cn/' %}
+          {% if page.url == '/' %}
             {% assign nav_links = site.data.navigation.cn %}
             {% assign home_text = "主页" %}
-            {% assign home_link = "/cn/" %}
+            {% assign home_link = "/" %}
           {% else %}
             {% assign nav_links = site.data.navigation.main %}
             {% assign home_text = "Homepage" %}
-            {% assign home_link = "/" %}
+            {% assign home_link = "/en/" %}
           {% endif %}
 
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">

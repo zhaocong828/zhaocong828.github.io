@@ -155,40 +155,32 @@ redirect_from:
 
 <div class="news-grid">
 <div class="news-card">
-    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
-      <span style="vertical-align: middle;">赵聪入选上海科技启明星计划（A类）</span>
+      <span style="vertical-align: middle;">课题组论文入选工程领域 ESI 全球 Top 1% 高被引论文和研究前沿核心论文</span>
     </div>
-    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
-      <p>赵聪副教授申报的《车路云一体化架构下自主泊车车车融合增强与运行优化研究》成功入选2024年度上海市青年科技启明星计划（A类）。</p>
-      <p>项目瞄准"停车难"痛点，以车路云一体化破解自主泊车落地瓶颈。</p>
-      <p>此次入选标志着其创新能力和工程转化成果获高度认可。</p>
+    <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
+      <p style="margin-bottom: 15px;">
+        根据基本科学指标库 ESI（Essential Science Indicators）最新统计数据，以课题组<strong>赵聪博士</strong>为第一作者，<strong>杜豫川教授</strong>为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在智能交通领域顶级国际期刊 <em>Transportation Research Part C: Emerging Technologies</em>（中科院一区，Top 期刊，IF: 9.022）的论文“Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network”（2021年，128卷）入选<strong>工程（Engineering）领域 ESI 全球 TOP 1.0% 高被引论文和研究前沿核心论文</strong>。
+      </p>
+      <p>
+        该研究聚焦城市“停车难”痛点问题，面向汽车智能化、网联化发展趋势，揭示了自动驾驶环境下路网静态停车与动态交通的交互影响规律，提出了中心化网联云调度的城市停车管理新范式。为实现区域供需动态平衡，减少停车巡游，论文提出了<strong>“区域间总量控制-区域内动态调度-车位级智能匹配”的三层调度框架</strong>，构建了动静一体的宏观交通分析模型，拓展了现有的理论体系。研究成果为智能网联环境下的城市停车管理提供了决策支持工具，具有广阔的应用前景。
+      </p>
     </div>
 </div>
 
-<!-- 新闻1：青年优秀人才培养行动计划 -->
 <div class="news-card">
-    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
-      <span style="vertical-align: middle;">赵聪入选同济大学青年优秀人才培养行动计划</span>
+      <span style="vertical-align: middle;">杜豫川教授团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
     </div>
-    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
-      <p>赵聪副教授凭借在智能交通与车路协同领域的突出研究成果，成功入选同济大学青年优秀人才培养行动计划。</p>
-      <p>该计划旨在支持具有创新潜力的青年学者开展高水平科学研究与学术交叉探索。</p>
-      <p>此次入选体现了学院与学校对其科研能力与发展潜力的高度认可。</p>
-    </div>
-</div>
-
-<!-- 新闻2：青年教师教学竞赛一等奖 -->
-<div class="news-card">
-    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
-      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
-      <span style="vertical-align: middle;">赵聪荣获2025年同济大学青年教师教学竞赛一等奖</span>
-    </div>
-    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
-      <p>在2025年同济大学青年教师教学竞赛中，赵聪副教授表现优异，荣获一等奖。</p>
-      <p>其授课内容严谨生动，教学方法创新高效，获得评审专家与学生的一致好评。</p>
-      <p>此项荣誉是对其教学能力、课程设计与课堂实践的充分肯定。</p>
+    <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
+      <p style="margin-bottom: 15px;">
+        根据基本科学指标库 ESI 最新统计数据，以同济大学智能交通新兴计算与感知研究课题组<strong>杜豫川教授</strong>为第一作者，<strong>赵聪博士</strong>为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在交通运输领域顶级国际期刊 <em>Transportation Research Part C: Emerging Technologies</em>（中科院一区，Top 期刊，IF: 9.022）的论文“Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning”（2022年，134卷）入选<strong>工程领域 ESI 全球 TOP 1.0% 高被引论文</strong>。
+      </p>
+      <p>
+        该研究面向车路协同自动驾驶环境，为提升车辆行驶的舒适性和节能性，率先利用海量路面数据和新兴深度强化学习算法，构建了一种高效的自动驾驶智能决策控制框架。研究创新性提出<strong>“最大舒适速度”</strong>概念，以表征自动驾驶车辆前方复杂的路面环境信息；进而利用深度强化学习方法构建速度决策模型，使用海量的实证路面数据和高可信的车路交互仿真环境训练深度神经网络参数。实验结果证明，相比于传统的模型预测控制方法，该模型<strong>在舒适度、节能和实时计算效率上分别提升了 8.22%、24.37% 和 94.38%</strong>，为车路协同环境下的速度决策控制提供了新思路。
+      </p>
     </div>
 </div>
 
@@ -366,7 +358,7 @@ IEEE Transactions on Intelligent Transportation Systems
 <details>
   <summary style="cursor: pointer; color: #007bff; font-weight: bold; margin: 20px 0;">👉 Click to view Past Publications (点击查看往期论文)</summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/paper_20.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_20.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Tunnelling and Underground Space Technology
 
@@ -377,7 +369,7 @@ Shanchuan Yu, **Cong Zhao\***, Lang Song, Yishun Li, Yuchuan Du
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/paper_19.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_19.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -388,7 +380,7 @@ IEEE Transactions on Intelligent Transportation Systems
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/paper_18.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_18.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -399,7 +391,7 @@ Yuxiong Ji, Lantao Ni, **Cong Zhao\***, Cailin Lei, Yuchuan Du, Wenshuo Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/paper_17.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_17.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 International Journal of Environmental Research and Public Health
 
@@ -410,7 +402,7 @@ Jing Chen, **Cong Zhao\***, Shengchuan Jiang, Xinyuan Zhang, Zhongxin Li, Yuchua
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/paper_16.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_16.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 International Journal of Environmental Research and Public Health
 
@@ -487,7 +479,7 @@ Yuchuan Du, Fengqi Wang, **Cong Zhao\***, Yifan Zhu, Yuxiong Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_09.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_09.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -509,7 +501,7 @@ Xinyuan Zhang, **Cong Zhao\***, Feixiong Liao, Xinghua Li, Yuchuan Du
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_07.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_07.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Transportation Research Part C: Emerging Technologies
 
@@ -520,7 +512,7 @@ Yuchuan Du, Jing Chen, **Cong Zhao\***, Chenglong Liu, Feixiong Liao, Ching-Yao 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_06.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_06.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Journal of Transportation Engineering, Part A: Systems
 
@@ -531,7 +523,7 @@ Journal of Transportation Engineering, Part A: Systems
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_05.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><div class="badge" style="background-color: #dc3545; color: white;">🔥 ESI 热点论文</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_05.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -575,7 +567,7 @@ Chenglong Liu, Yuchuan Du\*, Yiheng Ge, Difei Wu, **Cong Zhao**, Yishun Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src="{{ '/images/paper_01.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_01.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Transportation Research Part C: Emerging Technologies
 

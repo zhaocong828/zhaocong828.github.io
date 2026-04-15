@@ -1,58 +1,58 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/en/#about-me"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/en/#-educations"
 
   - title: "Professional Experiences"
-    url: "/#-professional-experiences"
+    url: "/en/#-professional-experiences"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/en/#-projects"
     
 # 新增 News 模块
   - title: "News"
-    url: "/#-news"
+    url: "/en/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/en/#-publications"
 
   - title: "Patents"
-    url: "/#-patents"
+    url: "/en/#-patents"
   
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/en/#-honors-and-awards"
     
   # 新增 People 模块
   - title: "People"
-    url: "/#-people"
+    url: "/en/#-people"
 
 cn:
   - title: "关于我"
-    url: "/cn/#about-me"
+    url: "/#about-me"
 
   - title: "教育经历"
-    url: "/cn/#-educations"
+    url: "/#-educations"
 
   - title: "工作经历"
-    url: "/cn/#-professional-experiences"
+    url: "/#-professional-experiences"
 
   - title: "科研项目"
-    url: "/cn/#-projects"
+    url: "/#-projects"
 
   - title: "新闻动态"
-    url: "/cn/#-news"
+    url: "/#-news"
 
   - title: "论文发表"
-    url: "/cn/#-publications"
+    url: "/#-publications"
 
   - title: "专利"
-    url: "/cn/#-patents"
+    url: "/#-patents"
     
   - title: "荣誉奖项"
-    url: "/cn/#-honors-and-awards"
+    url: "/#-honors-and-awards"
     
   - title: "团队成员"
-    url: "/cn/#-people"
+    url: "/#-people"

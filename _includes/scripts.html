@@ -108,7 +108,7 @@
     btn.setAttribute('target', '_self');
 
     // 检测逻辑
-    if (currentPath === "{{ '/' | relative_url }}" || currentPath.indexOf('/cn/') > -1) {
+    if (currentPath === "{{ '/' | relative_url }}") {
         // === 当前是中文版 ===
         labelText.innerText = "当前语言";
         statusText.innerText = "中文";
