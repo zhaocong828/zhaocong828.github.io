@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /en/
 title: ""
 excerpt: ""
@@ -187,6 +187,7 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
 </div>
 </div>
 
+<div style="height: 28px;"></div>
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/paper_35.png' | relative_url }}" alt="sym" width="100%"></div></div>
