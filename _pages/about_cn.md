@@ -409,7 +409,7 @@ International Journal of Environmental Research and Public Health
 **Cong Zhao**, Delong Ding, Zhouyang Du, Yupeng Shi, Guimin Su, Shanchuan Yu\*
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/paper_15.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -420,7 +420,7 @@ Computer-Aided Civil and Infrastructure Engineering
 Yuchuan Du, Jing Chen, **Cong Zhao\***, Feixiong Liao, Meixin Zhu
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/paper_14.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -431,7 +431,7 @@ IET Intelligent Transport Systems
 Cailin Lei, **Cong Zhao**, Yuxiong Ji\*, Yu Shen, Yuchuan Du
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_13.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -442,7 +442,7 @@ Transportation Research Part C: Emerging Technologies
 **Cong Zhao**, Andi Song, Yuchuan Du\*, Biao Yang
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_12.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -453,7 +453,7 @@ Transportation Research Part C: Emerging Technologies
 杜豫川, 师钰鹏, 都州扬, **赵 聪\***, 暨育雄
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_11.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -464,7 +464,7 @@ Computers and Electrical Engineering
 Yuchuan Du, Yupeng Shi, **Cong Zhao\***, Zhouyang Du, Yuxiong Ji
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_10.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -475,7 +475,7 @@ IET Intelligent Transport Systems
 Yuchuan Du, Fengqi Wang, **Cong Zhao\***, Yifan Zhu, Yuxiong Ji
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_09.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -486,7 +486,7 @@ IEEE Transactions on Intelligent Transportation Systems
 **Cong Zhao**, Yifan Zhu, Yuchuan Du\*, Feixiong Liao, Ching-Yao Chan
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_08.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -497,7 +497,7 @@ Transportation Research Part C: Emerging Technologies
 Xinyuan Zhang, **Cong Zhao\***, Feixiong Liao, Xinghua Li, Yuchuan Du
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_07.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -508,7 +508,7 @@ Transportation Research Part C: Emerging Technologies
 Yuchuan Du, Jing Chen, **Cong Zhao\***, Chenglong Liu, Feixiong Liao, Ching-Yao Chan
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_06.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -519,7 +519,7 @@ Journal of Transportation Engineering, Part A: Systems
 **Cong Zhao**, Jing Cao\*, Xinyuan Zhang, Yuchuan Du
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_05.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -530,7 +530,7 @@ IEEE Transactions on Intelligent Transportation Systems, 23(11), 22278-22289.
 Yuchuan Du, Bohao Qin, **Cong Zhao\***, Yifan Zhu, Jing Cao, Yuxiong Ji
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src="{{ '/images/paper_04.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -541,7 +541,7 @@ Yuchuan Du, Bohao Qin, **Cong Zhao\***, Yifan Zhu, Jing Cao, Yuxiong Ji
 杜豫川, 都州扬, 师钰鹏, **赵 聪\***, 暨育雄
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src="{{ '/images/paper_03.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -552,18 +552,18 @@ Journal of Advanced Transportation
 Chenglong Liu, Yuchuan Du\*, Yiheng Ge, Difei Wu, **Cong Zhao**, Yishun Li
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src="{{ '/images/paper_02.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 中国公路学报
 
-[基于多智能体深度强化学习的停车系统智能延时匹配方法](https://doi.org/10.37155/2717-5170-0708-9)
+[基于多智能体深度强化学习的停车系统智能延时匹配方法](https://doi.org/10.19721/j.cnki.1001-7372.2022.07.022)
 
 **赵 聪**, 张昕源, 李兴华, 杜豫川\*
 
 </div>
-</div>·
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src="{{ '/images/paper_01.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -574,7 +574,7 @@ Transportation Research Part C: Emerging Technologies.
 **Cong Zhao**, Feixiong Liao\*, Jing Cao, Yuchuan Du\*
 
 </div>
-</div>·
+</div>
 </details>
 
 <span class='anchor' id='-patents'></span>
