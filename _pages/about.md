@@ -163,10 +163,10 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
     </div>
     <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
       <p style="margin-bottom: 15px;">
-        根据基本科学指标库 ESI（Essential Science Indicators）最新统计数据，以课题组<strong>赵聪博士</strong>为第一作者，<strong>杜豫川教授</strong>为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在智能交通领域顶级国际期刊 <em>Transportation Research Part C: Emerging Technologies</em>（中科院一区，Top 期刊，IF: 9.022）的论文“Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network”（2021年，128卷）入选<strong>工程（Engineering）领域 ESI 全球 TOP 1.0% 高被引论文和研究前沿核心论文</strong>。
+        根据基本科学指标库 ESI（Essential Science Indicators）最新统计数据，以课题组<strong>赵聪博士</strong>为第一作者，杜豫川教授为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在智能交通领域顶级国际期刊 <em>Transportation Research Part C: Emerging Technologies</em>（中科院一区，Top 期刊，IF: 9.022）的论文“Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network”（2021年，128卷）入选<strong>工程（Engineering）领域 ESI 全球 TOP 1.0% 高被引论文和研究前沿核心论文</strong>。
       </p>
       <p>
-        该研究聚焦城市“停车难”痛点问题，面向汽车智能化、网联化发展趋势，揭示了自动驾驶环境下路网静态停车与动态交通的交互影响规律，提出了中心化网联云调度的城市停车管理新范式。为实现区域供需动态平衡，减少停车巡游，论文提出了<strong>“区域间总量控制-区域内动态调度-车位级智能匹配”的三层调度框架</strong>，构建了动静一体的宏观交通分析模型，拓展了现有的理论体系。研究成果为智能网联环境下的城市停车管理提供了决策支持工具，具有广阔的应用前景。
+        该研究聚焦城市“停车难”痛点问题，面向汽车智能化、网联化发展趋势，揭示了自动驾驶环境下路网静态停车与动态交通的交互影响规律，提出了中心化网联云调度的城市停车管理新范式。为实现区域供需动态平衡，减少停车巡游，论文提出了“区域间总量控制-区域内动态调度-车位级智能匹配”的三层调度框架，构建了动静一体的宏观交通分析模型，拓展了现有的理论体系。研究成果为智能网联环境下的城市停车管理提供了决策支持工具，具有广阔的应用前景。
       </p>
     </div>
 </div>
@@ -178,10 +178,10 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
     </div>
     <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
       <p style="margin-bottom: 15px;">
-        根据基本科学指标库 ESI 最新统计数据，以同济大学智能交通新兴计算与感知研究课题组<strong>杜豫川教授</strong>为第一作者，<strong>赵聪博士</strong>为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在交通运输领域顶级国际期刊 <em>Transportation Research Part C: Emerging Technologies</em>（中科院一区，Top 期刊，IF: 9.022）的论文“Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning”（2022年，134卷）入选<strong>工程领域 ESI 全球 TOP 1.0% 高被引论文</strong>。
+        根据基本科学指标库 ESI 最新统计数据，以同济大学智能交通新兴计算与感知研究课题组杜豫川教授为第一作者，<strong>赵聪博士</strong>为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在交通运输领域顶级国际期刊 <em>Transportation Research Part C: Emerging Technologies</em>（中科院一区，Top 期刊，IF: 9.022）的论文“Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning”（2022年，134卷）入选<strong>工程领域 ESI 全球 TOP 1.0% 高被引论文</strong>。
       </p>
       <p>
-        该研究面向车路协同自动驾驶环境，为提升车辆行驶的舒适性和节能性，率先利用海量路面数据和新兴深度强化学习算法，构建了一种高效的自动驾驶智能决策控制框架。研究创新性提出<strong>“最大舒适速度”</strong>概念，以表征自动驾驶车辆前方复杂的路面环境信息；进而利用深度强化学习方法构建速度决策模型，使用海量的实证路面数据和高可信的车路交互仿真环境训练深度神经网络参数。实验结果证明，相比于传统的模型预测控制方法，该模型<strong>在舒适度、节能和实时计算效率上分别提升了 8.22%、24.37% 和 94.38%</strong>，为车路协同环境下的速度决策控制提供了新思路。
+        该研究面向车路协同自动驾驶环境，为提升车辆行驶的舒适性和节能性，率先利用海量路面数据和新兴深度强化学习算法，构建了一种高效的自动驾驶智能决策控制框架。研究创新性提出“最大舒适速度”概念，以表征自动驾驶车辆前方复杂的路面环境信息；进而利用深度强化学习方法构建速度决策模型，使用海量的实证路面数据和高可信的车路交互仿真环境训练深度神经网络参数。实验结果证明，相比于传统的模型预测控制方法，该模型在舒适度、节能和实时计算效率上分别提升了 8.22%、24.37% 和 94.38%，为车路协同环境下的速度决策控制提供了新思路。
       </p>
     </div>
 </div>
@@ -359,55 +359,55 @@ IEEE Transactions on Intelligent Transportation Systems
 <details>
   <summary style="cursor: pointer; color: #007bff; font-weight: bold; margin: 20px 0;">👉 Click to view Past Publications (点击查看往期论文)</summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_20.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/paper_20.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Tunnelling and Underground Space Technology
 
-[Understanding traffic bottlenecks of long freeway tunnels based on a novel location-dependent lighting-related car-following model](https://doi.org/10.1016/j.tust.2023.105098)
+<span class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</span> [Understanding traffic bottlenecks of long freeway tunnels based on a novel location-dependent lighting-related car-following model](https://doi.org/10.1016/j.tust.2023.105098)
 
 Shanchuan Yu, **Cong Zhao\***, Lang Song, Yishun Li, Yuchuan Du
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_19.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/paper_19.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
-[Data-driven indoor positioning correction for infrastructure-enabled autonomous driving systems: A lifelong framework](https://doi.org/10.1109/tits.2022.3233563)
+<span class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</span> [Data-driven indoor positioning correction for infrastructure-enabled autonomous driving systems: A lifelong framework](https://doi.org/10.1109/tits.2022.3233563)
 
 **Cong Zhao**, Andi Song, Yifan Zhu, Shengchuan Jiang, Feixiong Liao, Yuchuan Du\*
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_18.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/paper_18.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
-[TriPField: A 3D potential field model and its applications to local path planning of autonomous vehicles](https://doi.org/10.1109/tits.2022.3231259)
+<span class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</span> [TriPField: A 3D potential field model and its applications to local path planning of autonomous vehicles](https://doi.org/10.1109/tits.2022.3231259)
 
 Yuxiong Ji, Lantao Ni, **Cong Zhao\***, Cailin Lei, Yuchuan Du, Wenshuo Wang
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_17.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/paper_17.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 International Journal of Environmental Research and Public Health
 
-[Safe, efficient, and comfortable autonomous driving based on cooperative vehicle infrastructure system](https://doi.org/10.3390/ijerph20010893)
+<span class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</span> [Safe, efficient, and comfortable autonomous driving based on cooperative vehicle infrastructure system](https://doi.org/10.3390/ijerph20010893)
 
 Jing Chen, **Cong Zhao\***, Shengchuan Jiang, Xinyuan Zhang, Zhongxin Li, Yuchuan Du
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_16.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/paper_16.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 International Journal of Environmental Research and Public Health
 
-[Analysis of perception accuracy of roadside millimeter-wave radar for traffic risk assessment and early warning systems](https://doi.org/10.3390/ijerph20010879)
+<span class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</span> [Analysis of perception accuracy of roadside millimeter-wave radar for traffic risk assessment and early warning systems](https://doi.org/10.3390/ijerph20010879)
 
 **Cong Zhao**, Delong Ding, Zhouyang Du, Yupeng Shi, Guimin Su, Shanchuan Yu\*
 
@@ -480,11 +480,11 @@ Yuchuan Du, Fengqi Wang, **Cong Zhao\***, Yifan Zhu, Yuxiong Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_09.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_09.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
-[A novel direct trajectory planning approach based on generative adversarial networks and rapidly-exploring random tree](https://doi.org/10.1109/tits.2022.3164391)
+<span class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</span> [A novel direct trajectory planning approach based on generative adversarial networks and rapidly-exploring random tree](https://doi.org/10.1109/tits.2022.3164391)
 
 **Cong Zhao**, Yifan Zhu, Yuchuan Du\*, Feixiong Liao, Ching-Yao Chan
 
@@ -502,33 +502,33 @@ Xinyuan Zhang, **Cong Zhao\***, Feixiong Liao, Xinghua Li, Yuchuan Du
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_07.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_07.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Transportation Research Part C: Emerging Technologies
 
-[Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning](https://doi.org/10.1016/j.trc.2021.103489)
+<span class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</span> [Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning](https://doi.org/10.1016/j.trc.2021.103489)
 
 Yuchuan Du, Jing Chen, **Cong Zhao\***, Chenglong Liu, Feixiong Liao, Ching-Yao Chan
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_06.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_06.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Journal of Transportation Engineering, Part A: Systems
 
-[From Search-for-Parking to Dispatch-for-Parking in an Era of Connected and Automated Vehicles: A Macroscopic Approach](https://doi.org/10.1061/jtepbs.0000640)
+<span class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</span> [From Search-for-Parking to Dispatch-for-Parking in an Era of Connected and Automated Vehicles: A Macroscopic Approach](https://doi.org/10.1061/jtepbs.0000640)
 
 **Cong Zhao**, Jing Cao\*, Xinyuan Zhang, Yuchuan Du
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><div class="badge" style="background-color: #dc3545; color: white;">🔥 ESI 热点论文</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_05.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_05.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE Transactions on Intelligent Transportation Systems
+IEEE Transactions on Intelligent Transportation Systems, 23(11), 22278-22289.
 
-[A novel spatio-temporal synchronization method of roadside asynchronous MMW radar-camera for sensor fusion](https://doi.org/10.1109/tits.2021.3119079)
+<span class="badge" style="background-color: #dc3545; color: white;">🔥 ESI 热点论文</span> [A novel spatio-temporal synchronization method of roadside asynchronous MMW radar-camera for sensor fusion](https://doi.org/10.1109/tits.2021.3119079)
 
 Yuchuan Du, Bohao Qin, **Cong Zhao\***, Yifan Zhu, Jing Cao, Yuxiong Ji
 
@@ -568,11 +568,11 @@ Chenglong Liu, Yuchuan Du\*, Yiheng Ge, Difei Wu, **Cong Zhao**, Yishun Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><div class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</div><img src="{{ '/images/paper_01.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src="{{ '/images/paper_01.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Transportation Research Part C: Emerging Technologies
+Transportation Research Part C: Emerging Technologies, 128.
 
-[Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network](https://doi.org/10.1016/j.trc.2021.103176)
+<span class="badge" style="background-color: #dc3545; color: white;">🔥 ESI 热点论文</span> <span class="badge" style="background-color: #ffc107; color: #000;">🏆 ESI 高被引论文</span> <span class="badge" style="background-color: #17a2b8; color: white;">⭐ 研究前沿核心论文</span> [Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network](https://doi.org/10.1016/j.trc.2021.103176)
 
 **Cong Zhao**, Feixiong Liao\*, Jing Cao, Yuchuan Du\*
 
