@@ -108,22 +108,18 @@
     btn.setAttribute('target', '_self');
 
     // 检测逻辑
-    if (currentPath === "{{ '/' | relative_url }}") {
-        // === 当前是中文版 ===
+    if (currentPath.indexOf('/cn/') > -1) {
         labelText.innerText = "当前语言";
         statusText.innerText = "中文";
         
-        // 直接设置目标链接为英文版首页
-        btn.href = "{{ '/en/' | relative_url }}";
+        btn.href = "{{ '/' | relative_url }}";
         btn.title = "点击切换到英文版 (Switch to English)";
         
     } else {
-        // === 当前是英文版 ===
         labelText.innerText = "Language";
         statusText.innerText = "English";
         
-        // 直接设置目标链接为中文版首页
-        btn.href = "{{ '/' | relative_url }}";
+        btn.href = "{{ '/cn/' | relative_url }}";
         btn.title = "Click to switch to Chinese (切换到中文版)";
     }
 })();

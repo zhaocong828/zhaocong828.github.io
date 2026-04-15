@@ -1,56 +1,56 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/en/#about-me"
+    url: "/#about-me"
 
   - title: "Educations"
-    url: "/en/#educations"
+    url: "/#educations"
 
   - title: "Professional Experiences"
-    url: "/en/#professional-experiences"
+    url: "/#professional-experiences"
 
   - title: "Projects"
-    url: "/en/#projects"
+    url: "/#projects"
     
   - title: "News"
-    url: "/en/#-news"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/en/#-publications"
+    url: "/#-publications"
 
   - title: "Patents"
-    url: "/en/#-patents"
+    url: "/#-patents"
   
   - title: "Honors and Awards"
-    url: "/en/#-honors-and-awards"
+    url: "/#-honors-and-awards"
     
   - title: "People"
-    url: "/en/#-people"
+    url: "/#-people"
 
 cn:
   - title: "关于我"
-    url: "/#about-me"
+    url: "/cn/#about-me"
 
   - title: "教育经历"
-    url: "/#educations"
+    url: "/cn/#educations"
 
   - title: "工作经历"
-    url: "/#professional-experiences"
+    url: "/cn/#professional-experiences"
 
   - title: "科研项目"
-    url: "/#projects"
+    url: "/cn/#projects"
 
   - title: "新闻动态"
-    url: "/#-news"
+    url: "/cn/#-news"
 
   - title: "论文发表"
-    url: "/#-publications"
+    url: "/cn/#-publications"
 
   - title: "专利"
-    url: "/#-patents"
+    url: "/cn/#-patents"
     
   - title: "荣誉奖项"
-    url: "/#-honors-and-awards"
+    url: "/cn/#-honors-and-awards"
     
   - title: "团队成员"
-    url: "/#-people"
+    url: "/cn/#-people"
