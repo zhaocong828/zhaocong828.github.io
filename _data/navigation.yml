@@ -12,7 +12,6 @@ main:
   - title: "Projects"
     url: "/en/#projects"
     
-# 新增 News 模块
   - title: "News"
     url: "/en/#-news"
 
@@ -25,7 +24,6 @@ main:
   - title: "Honors and Awards"
     url: "/en/#-honors-and-awards"
     
-  # 新增 People 模块
   - title: "People"
     url: "/en/#-people"
 
