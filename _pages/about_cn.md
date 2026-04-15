@@ -161,7 +161,7 @@ redirect_from:
     </div>
     <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
       <p style="margin-bottom: 15px;">
-        根据基本科学指标库 ESI（Essential Science Indicators）最新统计数据，以课题组<strong>赵聪博士</strong>为第一作者，杜豫川教授为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在智能交通领域顶级国际期刊 <em>Transportation Research Part C: Emerging Technologies</em>（中科院一区，Top 期刊，IF: 9.022）的论文“Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network”（2021年，128卷）入选<strong>工程（Engineering）领域 ESI 全球 TOP 1.0% 高被引论文和研究前沿核心论文</strong>。
+        根据基本科学指标库 ESI（Essential Science Indicators）最新统计数据，以课题组<strong>赵聪博士</strong>为第一作者，杜豫川教授为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在智能交通领域顶级国际期刊 <em>Transportation Research Part C: Emerging Technologies</em>（中科院一区，Top 期刊，IF: 9.022）的论文“Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network”（2021年，128卷）入选<strong>工程领域 ESI 全球 TOP 1.0% 高被引论文和研究前沿核心论文</strong>。
       </p>
       <p>
         该研究聚焦城市“停车难”痛点问题，面向汽车智能化、网联化发展趋势，揭示了自动驾驶环境下路网静态停车与动态交通的交互影响规律，提出了中心化网联云调度的城市停车管理新范式。为实现区域供需动态平衡，减少停车巡游，论文提出了“区域间总量控制-区域内动态调度-车位级智能匹配”的三层调度框架，构建了动静一体的宏观交通分析模型，拓展了现有的理论体系。研究成果为智能网联环境下的城市停车管理提供了决策支持工具，具有广阔的应用前景。
