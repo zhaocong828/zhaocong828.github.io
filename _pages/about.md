@@ -500,6 +500,17 @@ Xinyuan Zhang, **Cong Zhao\***, Feixiong Liao, Xinghua Li, Yuchuan Du
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_uwb.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Journal of Advanced Transportation
+
+🔥`ESI热点论文` 🏆`ESI高被引论文` [A Practical and Economical Ultra-wideband Base Station Placement Approach for Indoor Autonomous Driving Systems](https://doi.org/10.1155/2022/3815306)
+
+Shengchuan Jiang, **Cong Zhao\***, Yifan Zhu, Chenwei Wang, Yuchuan Du
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_07.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Transportation Research Part C: Emerging Technologies
@@ -526,7 +537,7 @@ Journal of Transportation Engineering, Part A: Systems
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems, 23(11), 22278-22289.
 
-🔥`ESI全球Top 0.1%热点论文` [A novel spatio-temporal synchronization method of roadside asynchronous MMW radar-camera for sensor fusion](https://doi.org/10.1109/tits.2021.3119079)
+🔥`ESI热点论文` 🏆`ESI高被引论文` [A novel spatio-temporal synchronization method of roadside asynchronous MMW radar-camera for sensor fusion](https://doi.org/10.1109/tits.2021.3119079)
 
 Yuchuan Du, Bohao Qin, **Cong Zhao\***, Yifan Zhu, Jing Cao, Yuxiong Ji
 
@@ -570,7 +581,7 @@ Chenglong Liu, Yuchuan Du\*, Yiheng Ge, Difei Wu, **Cong Zhao**, Yishun Li
 <div class='paper-box-text' markdown="1">
 Transportation Research Part C: Emerging Technologies.
 
-🏆`ESI全球TOP1.0%高被引论文` ⭐`研究前沿核心论文` [Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network](https://doi.org/10.1016/j.trc.2021.103176)
+🏆`ESI高被引论文` [Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network](https://doi.org/10.1016/j.trc.2021.103176)
 
 **Cong Zhao**, Feixiong Liao\*, Jing Cao, Yuchuan Du\*
 
@@ -578,19 +589,20 @@ Transportation Research Part C: Emerging Technologies.
 </div>
 </details>
 
+<span class='anchor' id='-patents'></span>
 
 # 📚 Patents
-- 🔥`New！`**Zhao C**, Du Y, Zhu Y, Ji Y. A method of infrastructure-augmented cooperative perception for autonomous vehicles based on voxel feature aggregation (GB2628958)
-- 🔥`New！`**Zhao C**, Du Y, Qin B, Li X. A method for multi-sensor multi-vehicle tracking based on image and motion feature matching (GB2628516)
-- 🔥`New！`**Zhao C**, Du Y, Qin B, Li X. Radar and video data fusion method for vehicle tracking based on deep learning and feature similarity (GB2628517)
-- 🔥`New！`**Zhao C**, Du Y, Zhu Y, Ji Y. A vehicle-road cooperative perception method for 3D object detection based on deep neural networks with feature sharing (GB2618936)
-- 🔥`New！`**Zhao C**, Du Y, Du Z, Ji Y. On-board positioning device-based roadside millimeter-wave radar calibration method (GB2620877)
-- 🔥`New！`**Zhao C**, Du Y, Qin B, Xu A, Jiang S, Wang R, Li X. Multi-target vehicle detection and re-identification method based on radar and video fusion (GB2619196)
-- 🔥`New！`**赵聪**, 钟凌云, 汪诗蕊, 杜豫川. 一种非完备感知数据下全域车辆轨迹构建方法 (ZL202210763169.7)
-- 🔥`New！`**赵聪**, 丁德隆, 师钰鹏, 杜豫川, 暨育雄. 一种基于图匹配的车路协同系统多传感器时空标定方法 (ZL202310021057.9)
-- 🔥`New！`**赵聪**, 杜豫川, 宋安迪. 一种集群车辆运动轨迹预测方法 (ZL202111474976.9)
-- 🔥`New！`**赵聪**, 陈锟, 暨育雄, 杜豫川. 基于不确定性量化的路域全量全要素可信感知方法及系统 (ZL202411902369.1)
-- 🔥`New！`**赵聪**, 曾子沐, 卞庆杰, 杜豫川. 一种跨域车辆重识别及连续轨迹构建方法 (ZL202210763102.3)
+- 🔥`New！` **Zhao C**, Du Y, Zhu Y, Ji Y. A method of infrastructure-augmented cooperative perception for autonomous vehicles based on voxel feature aggregation (GB2628958)
+- 🔥`New！` **Zhao C**, Du Y, Qin B, Li X. A method for multi-sensor multi-vehicle tracking based on image and motion feature matching (GB2628516)
+- 🔥`New！` **Zhao C**, Du Y, Qin B, Li X. Radar and video data fusion method for vehicle tracking based on deep learning and feature similarity (GB2628517)
+- 🔥`New！` **Zhao C**, Du Y, Zhu Y, Ji Y. A vehicle-road cooperative perception method for 3D object detection based on deep neural networks with feature sharing (GB2618936)
+- 🔥`New！` **Zhao C**, Du Y, Du Z, Ji Y. On-board positioning device-based roadside millimeter-wave radar calibration method (GB2620877)
+- 🔥`New！` **Zhao C**, Du Y, Qin B, Xu A, Jiang S, Wang R, Li X. Multi-target vehicle detection and re-identification method based on radar and video fusion (GB2619196)
+- 🔥`New！` **赵聪**, 钟凌云, 汪诗蕊, 杜豫川. 一种非完备感知数据下全域车辆轨迹构建方法 (ZL202210763169.7)
+- 🔥`New！` **赵聪**, 丁德隆, 师钰鹏, 杜豫川, 暨育雄. 一种基于图匹配的车路协同系统多传感器时空标定方法 (ZL202310021057.9)
+- 🔥`New！` **赵聪**, 杜豫川, 宋安迪. 一种集群车辆运动轨迹预测方法 (ZL202111474976.9)
+- 🔥`New！` **赵聪**, 陈锟, 暨育雄, 杜豫川. 基于不确定性量化的路域全量全要素可信感知方法及系统 (ZL202411902369.1)
+- 🔥`New！` **赵聪**, 曾子沐, 卞庆杰, 杜豫川. 一种跨域车辆重识别及连续轨迹构建方法 (ZL202210763102.3)
 - **赵聪**, 李涛, 汪诗雨, 杜豫川. 一种基于双层模型的停车资源精细化管理优化方法 (ZL202311201779.9)
 - **赵聪**, 师钰鹏, 汪诗雨, 暨育雄, 杜豫川. 一种跨域路侧感知多车辆关联方法及系统 (ZL202311239693.5)
 - **赵聪**, 曾子沐, 宋安迪, 杜豫川. 一种面向自主代客泊车场景的车辆运动轨迹预测方法 (ZL202311335481.7)

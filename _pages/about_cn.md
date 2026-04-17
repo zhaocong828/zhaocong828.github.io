@@ -499,6 +499,17 @@ Xinyuan Zhang, **Cong Zhao\***, Feixiong Liao, Xinghua Li, Yuchuan Du
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_uwb.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Journal of Advanced Transportation
+
+🔥`ESI热点论文` 🏆`ESI高被引论文` [A Practical and Economical Ultra-wideband Base Station Placement Approach for Indoor Autonomous Driving Systems](https://doi.org/10.1155/2022/3815306)
+
+Shengchuan Jiang, **Cong Zhao\***, Yifan Zhu, Chenwei Wang, Yuchuan Du
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/paper_07.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Transportation Research Part C: Emerging Technologies
@@ -525,7 +536,7 @@ Journal of Transportation Engineering, Part A: Systems
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems, 23(11), 22278-22289.
 
-🔥`ESI全球Top 0.1%热点论文` [A novel spatio-temporal synchronization method of roadside asynchronous MMW radar-camera for sensor fusion](https://doi.org/10.1109/tits.2021.3119079)
+🔥`ESI热点论文` 🏆`ESI高被引论文` [A novel spatio-temporal synchronization method of roadside asynchronous MMW radar-camera for sensor fusion](https://doi.org/10.1109/tits.2021.3119079)
 
 Yuchuan Du, Bohao Qin, **Cong Zhao\***, Yifan Zhu, Jing Cao, Yuxiong Ji
 
@@ -569,7 +580,7 @@ Chenglong Liu, Yuchuan Du\*, Yiheng Ge, Difei Wu, **Cong Zhao**, Yishun Li
 <div class='paper-box-text' markdown="1">
 Transportation Research Part C: Emerging Technologies.
 
-🏆`ESI全球TOP1.0%高被引论文` ⭐`研究前沿核心论文` [Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network](https://doi.org/10.1016/j.trc.2021.103176)
+🏆`ESI高被引论文` [Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network](https://doi.org/10.1016/j.trc.2021.103176)
 
 **Cong Zhao**, Feixiong Liao\*, Jing Cao, Yuchuan Du\*
 
