@@ -7,7 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<head>
+  <title>赵聪 | 同济大学 副教授 智能交通 自动驾驶</title>
+  <meta name="description" content="赵聪，同济大学交通学院副教授，研究方向：AI+交通信息控制、车路协同、自主代客泊车、自动驾驶。">
+  <meta name="keywords" content="赵聪,同济大学,智能交通,自动驾驶,车路协同,自主泊车,学术主页">
+  <meta name="author" content="赵聪 Cong Zhao">
+  <meta name="robots" content="index,follow">
+</head>
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
