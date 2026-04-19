@@ -256,6 +256,41 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
         ESI是由世界著名的学术信息出版机构美国科技信息所（ISI）推出的衡量科学研究绩效、跟踪科学发展趋势的基本分析评价工具，是基于汤森路透Web of Science（SCIE/SSCI）所收录的全球11000多种学术期刊的数千万条文献记录而建立的计量分析数据库。ESI对全球所有的SCIE、SSCI库中2005年以来的论文数据进行统计，按被引频次的高低确定出衡量研究绩效的阈值；ESI高被引论文已成为当前衡量和评价国家/地区科研水平、机构学术声誉、学科水平、科学家学术影响力以及期刊学术水平的一个重要指标。ESI Top 1.0 %高被引论文是指同年度同学科领域中被引频次排名前1.0%以内的文章。
       </p>
     </div>
+  <div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
+      <span style="vertical-align: middle;">【车路协同定位增强领域】团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
+    </div>
+    <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
+      <p style="margin-bottom: 15px;">
+        根据基本科学指标库ESI（Essential Science Indicators）的最新统计数据，以课题组<strong>赵聪副教授</strong>为第一作者，杜豫川教授为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在智能交通领域顶级国际期刊<em>IEEE Transactions on Intelligent Transportation Systems</em>（中科院一区，Top期刊，影响因子8.4）的论文“Data-Driven Indoor Positioning Correction for Infrastructure-Enabled Autonomous Driving Systems: A Lifelong Framework”（2023年，24卷，4期）入选工程（Engineering）领域ESI全球TOP 1.0%高被引论文。
+      </p>
+      <p>
+        该研究面向智能车库中自动代客泊车的高精度定位需求，针对无线室内定位技术在环境动态变化及长期运行下性能退化的问题，提出了一种数据驱动的终身学习室内定位误差校正框架。研究利用高配自动驾驶车辆的众包数据，构建了地图辅助的深度学习定位校正模型。该模型融合CoordConv、长短期记忆网络（LSTM）与Transformer以提取误差时空特征，并嵌入局部栅格地图生成器学习环境干扰机制；同时，开发了异常检测模型监控系统退化并引导更新，保障框架的终身稳定性。真实地下停车场的测试表明，该系统能在动态复杂的环境中保持高精度校正，将室内定位误差与车辆路径跟踪误差分别降低了60%和40%。该成果有效缓解了无线定位系统长期精度衰减的问题，为基础设施赋能的自动驾驶规模化应用提供了可靠的技术支撑。
+      </p>
+      <p>
+        ESI是由世界著名的学术信息出版机构美国科技信息所（ISI）推出的衡量科学研究绩效、跟踪科学发展趋势的基本分析评价工具，是基于汤森路透Web of Science（SCIE/SSCI）所收录的全球11000多种学术期刊的数千万条文献记录而建立的计量分析数据库。ESI对全球所有的SCIE、SSCI库中2005年以来的论文数据进行统计，按被引频次的高低确定出衡量研究绩效的阈值；ESI高被引论文已成为当前衡量和评价国家/地区科研水平、机构学术声誉、学科水平、科学家学术影响力以及期刊学术水平的一个重要指标。ESI Top 1.0 %高被引论文是指同年度同学科领域中被引频次排名前1.0%以内的文章。
+      </p>
+    </div>
+</div>
+
+<div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
+      <span style="vertical-align: middle;">【车路协同可信感知领域】团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文与 Top 0.1% 热点论文</span>
+    </div>
+    <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
+      <p style="margin-bottom: 15px;">
+        根据基本科学指标库ESI（Essential Science Indicators）的最新统计数据，以课题组杜豫川教授为第一作者，<strong>赵聪副教授</strong>为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在智能交通领域顶级国际期刊<em>IEEE Transactions on Intelligent Transportation Systems</em>（中科院一区，Top期刊，影响因子为8.4）的论文“A Novel Spatio-Temporal Synchronization Method of Roadside Asynchronous MMW Radar-Camera for Sensor Fusion”（2022年，23卷，11期）入选工程（Engineering）领域<strong>ESI全球TOP 1.0%高被引论文</strong>，同时入选<strong>ESI全球TOP 0.1%热点论文</strong>。
+      </p>
+      <p>
+        该研究面向车路协同系统中的感知智能需求，针对路侧毫米波雷达与相机在多源融合过程中由于采样频率不一致及时间戳不同步导致的感知精度瓶颈，提出了一套全新的路侧异步传感器时空同步方案。研究创新性地构建了“由粗到精”的时间同步机制，并结合单应矩阵实现了高精度的空间对齐。实验结果证明，该方法实现的时间偏移估计平均误差仅为4.3 ms。相比于目前广泛使用的最近邻匹配方法，该方法在目标距离维度的均方根误差降低了43.6%，在速度维度的RMSE降低了52.8%。研究成果为路侧多源传感器融合感知提供了新思路，为复杂交通场景下的高精度环境监测与车路协同应用提供了可靠的技术支撑，具有广阔的工程应用前景。
+      </p>
+      <p>
+        ESI是由世界著名的学术信息出版机构美国科技信息所（ISI）推出的衡量科学研究绩效、跟踪科学发展趋势的基本分析评价工具，是基于汤森路透Web of Science（SCIE/SSCI）所收录的全球11000多种学术期刊的数千万条文献记录而建立的计量分析数据库。ESI高被引论文与热点论文是国际公认的衡量学术影响力的核心指标，其中ESI Top 0.1%热点论文代表了相应领域最具前沿性和影响力的顶尖研究成果。
+      </p>
+    </div>
+</div>
 </div>
 
 </div>
