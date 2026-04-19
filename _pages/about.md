@@ -30,14 +30,14 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
 - *2010.09 - 2014.07*, [Tongji University](https://www.tongji.edu.cn/), Traffic Engineering, Bachelor's Degree.
 - *2014.09 - 2017.07*, [Tongji University](https://www.tongji.edu.cn/), Transportation Engineering, Master's Degree.
 - *2018.11 - 2019.12*, [University of California, Berkeley](https://www.berkeley.edu/), Transportation Research Institute, Joint PhD Student.
-- *2017.09 - 2020.08*, [Tongji University](https://www.tongji.edu.cn/), Transportation Engineering, Doctor's Degree.
+- *2017.09 - 2020.08*, [Tongji University](https://www.tongji.edu.cn/), Ph.D. in Transportation Engineering, Supervisor: Professor Du Yuchuan.
 
 <span class='anchor' id='professional-experiences'></span>
 
 💻 Professional Experience
 - *2020.11 - 2024.02*, [Tongji University](https://www.tongji.edu.cn/), College of Transportation, Postdoctoral Fellow (Supervisor: Academician Jifeng He).
 - *2024.03 - Present* , [Tongji University](https://www.tongji.edu.cn/), College of Transportation, Associate Professor.
-- *2025.01 - Present* , Seconded to the Department of Infrastructure Development, National Development and Reform Commission.
+- *2025.01 - Present* , Serving on a temporary attachment for training at the Department of Infrastructure Development, National Development and Reform Commission (NDRC).
 
 <span class='anchor' id='projects'></span>
 
