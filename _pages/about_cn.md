@@ -717,7 +717,7 @@ Transportation Research Part C: Emerging Technologies.
 - 🔥`New！` **Zhao C**, Du Y, Zhu Y, Ji Y. A vehicle-road cooperative perception method for 3D object detection based on deep neural networks with feature sharing (GB2618936)
 - 🔥`New！` **Zhao C**, Du Y, Du Z, Ji Y. On-board positioning device-based roadside millimeter-wave radar calibration method (GB2620877)
 - 🔥`New！` **Zhao C**, Du Y, Qin B, Xu A, Jiang S, Wang R, Li X. Multi-target vehicle detection and re-identification method based on radar and video fusion (GB2619196)
-- 🔥`New！` **赵聪**, 钟凌云, 汪诗蕊, 杜豫川. 一种非完备感知数据下全域车辆轨迹构建方法 (ZL202210763169.7)
+- 🔥`New！` **赵聪**, 钟凌云, 汪诗雨, 杜豫川. 一种非完备感知数据下全域车辆轨迹构建方法 (ZL202210763169.7)
 - 🔥`New！` **赵聪**, 丁德隆, 师钰鹏, 杜豫川, 暨育雄. 一种基于图匹配的车路协同系统多传感器时空标定方法 (ZL202310021057.9)
 - 🔥`New！` **赵聪**, 杜豫川, 宋安迪. 一种集群车辆运动轨迹预测方法 (ZL202111474976.9)
 - 🔥`New！` **赵聪**, 陈锟, 暨育雄, 杜豫川. 基于不确定性量化的路域全量全要素可信感知方法及系统 (ZL202411902369.1)
