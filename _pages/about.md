@@ -195,7 +195,7 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
-      <span style="vertical-align: middle;">团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
+      <span style="vertical-align: middle;">【自动驾驶交通控制领域】团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
     </div>
     <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
       <p style="margin-bottom: 15px;">
@@ -210,7 +210,7 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
-      <span style="vertical-align: middle;">团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
+      <span style="vertical-align: middle;">【自动驾驶速度决策领域】团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
     </div>
     <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
       <p style="margin-bottom: 15px;">
@@ -225,7 +225,7 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
-      <span style="vertical-align: middle;">团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
+      <span style="vertical-align: middle;">【自动驾驶轨迹规划领域】团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
     </div>
     <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
       <p style="margin-bottom: 15px;">
@@ -243,7 +243,7 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
-      <span style="vertical-align: middle;">团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
+      <span style="vertical-align: middle;">【自动驾驶风险辨识领域】团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
     </div>
     <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
       <p style="margin-bottom: 15px;">
