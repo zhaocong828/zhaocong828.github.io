@@ -42,9 +42,16 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
 <span class='anchor' id='projects'></span>
 
 # 🔍 Research Projects
-<!-- Supplement your project content -->
-- *YYYY.MM - YYYY.MM*, [Project Name](https://example.com/) (Funding/Level), Role, Project Description.
-- *YYYY.MM - YYYY.MM*, [Project Name](https://example.com/) (Funding/Level), Role, Project Description.
+- *2025.01 - 2028.12*, [Research on Cloud Control Scheduling of Automated Valet Parking in Human-Machine Mixed Driving Environment](https://kd.nsfc.cn/fundingProjectInit?projectCode=52472352), General Program of National Natural Science Foundation of China (No. 52472352), Principal Investigator.
+- *2022.01 - 2024.12*, [Research on Mapping Mechanism between Parking Search Behavior and Traffic State Evolution in Urban Road Network](https://kd.nsfc.cn/fundingProjectInit?projectCode=52102383), Youth Program of National Natural Science Foundation of China (No. 52102383), Principal Investigator.
+- *2025.01 - 2025.12*, [Research on the Development Strategy of Transportation and Vehicle Engineering Discipline in the New Era](https://kd.nsfc.cn/fundingProjectInit?projectCode=52442213), Special Project of National Natural Science Foundation of China (No. 52442213), Core Member.
+- *2021.12 - 2024.11*, [R&D on Key Technologies and Systems for Terminal Operation and Platoon Autonomous Driving of Container Transport Vehicles](https://service.most.gov.cn/), National Key R&D Program of China (No. 2021YFB1600403), Principal Investigator, Sub-project: V2X Beyond Visual Range Perception and Positioning Enhancement Technology for Port & Arterial Roads.
+- *2020.11 - 2024.10*, [Trustworthy and Interpretable Hybrid Intelligent Decision-Making & Online Evaluation for Human-Machine Cooperative Driving](https://service.most.gov.cn/), Science and Technology Innovation 2030 Major Project – New Generation AI (No. 2020AAA0108101), Core Member.
+- *2023.01 - 2024.03*, [Scheduling Modeling and Optimization of Parking System under Automated Valet Parking Scenarios](https://jj.chinapostdoctor.org.cn/), Special Grant of China Postdoctoral Science Foundation (No. 2023T160487), Principal Investigator.
+- *2023.03 - 2024.02*, [Development Status and Evolution Trend of Integrated ICV & Transportation Technology](https://czkj.sheic.org.cn/), Shanghai Science and Technology Innovation Action Plan (No. 23692106300), Principal Investigator.
+- *2024.12 - 2027.11*, [Vehicle-Road-Cloud Integrated Fusion Enhancement and Operation Optimization for Automated Parking](https://czkj.sheic.org.cn/), Shanghai Rising-Star Program (No. 24QA2709600), Principal Investigator.
+- *2021.01 - 2025.12*, [Key Technologies of Swarm Intelligence Cooperation for Autonomous Driving Based on Vehicle-Road Holographic Environment](https://czkj.sheic.org.cn/), Major Natural Science Project of Shanghai Municipal Education Commission, Core Member.
+- *2024.09 - 2026.08*, [Vehicle-Road-Cloud Integrated Operation & Control System for Automated Parking](https://czkj.sheic.org.cn/), Jiading District “Listing for Leadership” S&T Innovation Project, Principal Investigator.
 
 <span class='anchor' id='-news'></span>
 
@@ -618,7 +625,14 @@ Transportation Research Part C: Emerging Technologies.
 
 # 🏆 Honors and Awards
 🏅 Honors
-
+- *2023*, [Young Talent Support Program of CAST](http://qingtuo.36ve.com/), China Association for Science and Technology
+- *2024*, [Shanghai Rising-Star Program (Class A)](https://czkj.sheic.org.cn/), Shanghai Municipal Science and Technology Commission
+- *2025*, [Oriental Talent Youth Program](https://www.sh-italent.com/PolicyGuide/TalentPlanIndex.aspx?ID=42622), Shanghai Municipal Education Commission
+- *2022*, [First Prize of Shanghai Science and Technology Progress Award](https://svc20.stcsm.sh.gov.cn/), Key Technologies and Applications of Digitalization and Intelligent Management for Urban Parking, Rank: 2nd
+- *2024*, [First Prize of Invention Innovation Award](http://www.cainet.org.cn/), Key Technologies and Applications of Holographic Trustworthy Perception and Dynamic-Static Collaborative Control for Intelligent Road Network, Rank: 1st
+- *2024*, [Second Prize of Shanghai Science and Technology Progress Award](https://svc20.stcsm.sh.gov.cn/), Key Technologies and Applications of Cloud-Controlled Intelligent Navigation and Scheduling for Urban Public Transport, Rank: 4th
+- *2022*, [Major Transportation S&T Innovation Achievement (Paper)](https://xxgk.mot.gov.cn/jigou/kjs/202212/t20221229_3647752.html), Ministry of Transport of PRC, Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network
+- *2022*, [Major Transportation S&T Innovation Achievement (Paper)](https://xxgk.mot.gov.cn/jigou/kjs/202212/t20221229_3647752.html), Ministry of Transport of PRC, Intelligent Evaluation Method for Trajectory Data Quality of Roadside Perception Vehicles
 
 # 🧑‍💻 Team Members
 <style>
