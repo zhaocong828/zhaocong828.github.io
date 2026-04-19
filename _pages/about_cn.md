@@ -256,6 +256,7 @@ redirect_from:
         ESI是由世界著名的学术信息出版机构美国科技信息所（ISI）推出的衡量科学研究绩效、跟踪科学发展趋势的基本分析评价工具，是基于汤森路透Web of Science（SCIE/SSCI）所收录的全球11000多种学术期刊的数千万条文献记录而建立的计量分析数据库。ESI对全球所有的SCIE、SSCI库中2005年以来的论文数据进行统计，按被引频次的高低确定出衡量研究绩效的阈值；ESI高被引论文已成为当前衡量和评价国家/地区科研水平、机构学术声誉、学科水平、科学家学术影响力以及期刊学术水平的一个重要指标。ESI Top 1.0 %高被引论文是指同年度同学科领域中被引频次排名前1.0%以内的文章。
       </p>
     </div>
+</div>
 
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
