@@ -743,7 +743,9 @@ Transportation Research Part C: Emerging Technologies.
     <div class="person-name">Chengnuo Zhang</div>
     <div class="person-desc">Research Interests: Intelligent transportation and automated driving application</div>
   </div>
-  <div class="person-name">Jianfan Li</div>
+  <div class="person-card">
+    <div class="person-card">
+    <div class="person-name">Jianfan Li</div>
     <div class="person-desc">Research Interests: Key algorithms of vehicle-road collaboration</div>
   </div>
 </div>
