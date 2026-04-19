@@ -257,7 +257,8 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
       </p>
     </div>
 </div>
-  <div class="news-card">
+
+<div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
       <span style="vertical-align: middle;">【车路协同定位增强领域】团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
@@ -292,12 +293,14 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
       </p>
     </div>
 </div>
-</div>
 
 </div>
+
 <div style="height: 24px;"></div>
 <span class='anchor' id='-publications'></span>
+
 # 📝 Publications 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/paper_35.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
