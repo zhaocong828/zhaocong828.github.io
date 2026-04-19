@@ -191,6 +191,36 @@ redirect_from:
       </p>
     </div>
 </div>
+
+<div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
+      <span style="vertical-align: middle;">赵聪入选上海市2024年度“科技创新行动计划”启明星（A类）</span>
+    </div>
+    <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
+      <p style="margin-bottom: 15px;">
+        近日，<a href="https://czkj.sheic.org.cn/" target="_blank">上海市科学技术委员会</a>公示了2024年度上海市“科技创新行动计划”青年科技启明星计划（A类）立项项目名单。同济大学交通学院赵聪副教授申报的《车路云一体化架构下自主泊车路车融合增强与运行优化研究》成功入选。
+      </p>
+      <p>
+        项目瞄准“停车难”痛点，以车路云一体化破解自主泊车落地瓶颈。针对停车空间半结构化、弱规则化、高密集交互等复杂特征，本项目拟采用车路云一体化技术路径，重点攻克自主泊车失效风险辨识与路辅靶向增强两大关键难题，为特定场景自动驾驶应用提供可复制、可推广的方案。上海市青年科技启明星计划（A类）是上海市科委最具影响力的青年人才项目之一，赵聪此次入选，标志着其在前沿交叉领域的创新能力和工程转化成果获得高度认可。
+      </p>
+    </div>
+</div>
+
+<div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
+      <span style="vertical-align: middle;">赵聪入选第八届中国科协青年人才托举工程</span>
+    </div>
+    <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
+      <p style="margin-bottom: 15px;">
+        近日，按照中国科协相关文件要求，中国公路学会在公路交通行业内开展青年人才托举工程遴选工作，课题组赵聪博士以复评第一的身份顺利入选<a href="http://qingtuo.36ve.com/" target="_blank">第八届中国科协青年人才托举工程</a>中国科协资助名额。
+      </p>
+      <p>
+        “青年人才托举工程”是中国科协设立的国家级青年人才计划，采用以奖代补、稳定支持的方式，连续三年资助，大力扶持有较大创新能力和发展潜力的32岁以下青年科技人才，帮助他们在创造力黄金时期做出突出业绩，成长为国家主要科技领域高层次领军人才和高水平创新团队的重要后备力量。
+      </p>
+    </div>
+</div>
 </div>
 
 <div style="height: 24px;"></div>
