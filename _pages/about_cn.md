@@ -623,7 +623,7 @@ Transportation Research Part C: Emerging Technologies.
 <style>
 .people-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* 响应式布局 */
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 20px;
   margin-bottom: 30px;
 }
@@ -651,9 +651,8 @@ Transportation Research Part C: Emerging Technologies.
   color: #586069;
   line-height: 1.5;
 }
-/* 招聘卡片样式 */
 .hiring-card {
-  border: 2px dashed #0366d6; /* 蓝色虚线框 */
+  border: 2px dashed #0366d6;
   background: #f1f8ff;
   display: flex;
   align-items: center;
@@ -667,117 +666,89 @@ Transportation Research Part C: Emerging Technologies.
   font-weight: bold;
 }
 </style>
-<h3>Postdoc / Research Fellow</h3>
+
+<h3>博士研究生</h3>
 <div class="people-grid">
-  <div class="person-card hiring-card">
-    <div class="hiring-text">
-      <i class="fas fa-user-plus"></i> Openings Available<br>
-      <span style="font-size:0.8em; font-weight:normal;">We are looking for talented Postdocs.<br>Welcome to join us!</span>
-    </div>
+  <div class="person-card">
+    <div class="person-name">陈锟</div>
+    <div class="person-desc">研究方向：自动驾驶测试评价</div>
+  </div>
+  <div class="person-card">
+    <div class="person-name">赵治国</div>
+    <div class="person-desc">研究方向：自动驾驶车路协同感知</div>
+  </div>
+  <div class="person-card">
+    <div class="person-name">马裕城</div>
+    <div class="person-desc">研究方向：自动驾驶车路协同决策控制</div>
+  </div>
+  <div class="person-card">
+    <div class="person-name">周卓轩</div>
+    <div class="person-desc">研究方向：世界模型与自动驾驶</div>
   </div>
 </div>
 
-<h3>PhD Students</h3>
+<h3>硕士研究生</h3>
 <div class="people-grid">
-  <div class="person-card hiring-card">
-    <div class="hiring-text">
-      <i class="fas fa-graduation-cap"></i> PhD Positions Open<br>
-      <span style="font-size:0.8em; font-weight:normal;">Positions for PhD students are open.<br>Welcome to apply!</span>
-    </div>
+  <div class="person-card">
+    <div class="person-name">顾欣怡</div>
+    <div class="person-desc">研究方向：自动驾驶智能感知与优化</div>
+  </div>
+  <div class="person-card">
+    <div class="person-name">张成诺</div>
+    <div class="person-desc">研究方向：智能交通与自动驾驶应用研究</div>
+  </div>
+  <div class="person-card">
+    <div class="person-name">李简凡</div>
+    <div class="person-desc">研究方向：车路协同智能算法研究</div>
   </div>
 </div>
 
-<h3>Master Students</h3>
+<h3>本科在读</h3>
 <div class="people-grid">
-  
   <div class="person-card">
-    <div class="person-name">
-      <a href="https://henryyang-1.github.io/" target="_blank">Hanlin Yang (2024.9-)</a>
-    </div>
-    <div class="person-desc">
-      Research interests: Intelligent transportation infrastructure and road maintenance decision-making.
-    </div>
+    <div class="person-name">薄钰鹏</div>
+    <div class="person-desc">研究方向：智能交通、自动驾驶基础技术探索</div>
   </div>
-
-  <div class="person-card">
-    <div class="person-name">Jun Wan (2025.9-)</div>
-    <div class="person-desc">
-      Research interests: Traffic incident detection and road maintenance decision-making.
-    </div>
-  </div>
-
 </div>
-<h3>Undergraduate Students</h3>
-<div class="people-grid">
-  
-  <div class="person-card">
-    <div class="person-name">Enze Wang (2022.9-)</div>
-    <div class="person-desc">
-      Research interests: Automated road infrastructure inspection and maintenance augmented by LLM and embodied AI.
-    </div>
-  </div>
 
-  <div class="person-card">
-    <div class="person-name">Jingtai Luo (2022.9-)</div>
-    <div class="person-desc">
-      Research interests: AI-supported intelligent infrastructure and pavement defect detection algorithms.
-    </div>
-  </div>
-
-</div>
-<h3>Visiting Students</h3>
+<h3>访问学生</h3>
 <div class="people-grid">
    <div class="person-card hiring-card" style="border-color: #aaa; background: #f9f9f9;">
-    <div class="hiring-text" style="color: #666;">
-       Open for Visiting Students
-    </div>
+    <div class="hiring-text" style="color: #666;">长期开放访问学生申请</div>
   </div>
 </div>
-
 
 <div id="newsModal" class="news-modal-overlay">
   <div class="news-modal-content">
     <span class="news-close-btn">&times;</span>
-    <div id="modalBody">
-      </div>
+    <div id="modalBody"></div>
   </div>
 </div>
 
 <script>
-  // 获取元素
   var modal = document.getElementById("newsModal");
   var modalBody = document.getElementById("modalBody");
   var closeBtn = document.getElementsByClassName("news-close-btn")[0];
   var cards = document.querySelectorAll(".news-card");
 
-  // 为每个卡片添加点击事件
   cards.forEach(function(card) {
     card.addEventListener("click", function() {
-      // 1. 获取当前点击卡片的 HTML 内容
       var content = this.innerHTML;
-      
-      // 2. 将内容注入到模态框中
       modalBody.innerHTML = content;
-      
-      // 3. 显示模态框
       modal.style.display = "flex";
-      
-      // 4. 锁定背景滚动（可选）
       document.body.style.overflow = "hidden";
     });
   });
 
-  // 关闭功能：点击关闭按钮
   closeBtn.onclick = function() {
     modal.style.display = "none";
-    document.body.style.overflow = "auto"; // 恢复滚动
+    document.body.style.overflow = "auto";
   }
 
-  // 关闭功能：点击模态框外部空白区域
   window.onclick = function(event) {
     if (event.target == modal) {
       modal.style.display = "none";
-      document.body.style.overflow = "auto"; // 恢复滚动
+      document.body.style.overflow = "auto";
     }
   }
 </script>
