@@ -162,7 +162,6 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
 </style>
 
 <div class="news-grid">
-  
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
@@ -185,22 +184,22 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
     </div>
     <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
       <p style="margin-bottom: 15px;">
-        近日，按照中国科协相关文件要求，中国公路学会在公路交通行业内开展青年人才托举工程遴选工作，课题组赵聪博士以复评第一的身份顺利入选<a href="http://qingtuo.36ve.com/" target="_blank">第八届中国科协青年人才托举工程</a>中国科协资助名额。
+        近日，按照中国科协相关文件要求，中国公路学会在公路交通行业内开展青年人才托举工程遴选工作，课题组赵聪副教授以复评第一的身份顺利入选<a href="http://qingtuo.36ve.com/" target="_blank">第八届中国科协青年人才托举工程</a>中国科协资助名额。
       </p>
       <p>
         “青年人才托举工程”是中国科协设立的国家级青年人才计划，采用以奖代补、稳定支持的方式，连续三年资助，大力扶持有较大创新能力和发展潜力的32岁以下青年科技人才，帮助他们在创造力黄金时期做出突出业绩，成长为国家主要科技领域高层次领军人才和高水平创新团队的重要后备力量。
       </p>
     </div>
 </div>
-
+  
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
-      <span style="vertical-align: middle;">课题组论文入选工程领域 ESI 全球 Top 1% 高被引论文和研究前沿核心论文</span>
+      <span style="vertical-align: middle;">团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
     </div>
     <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
       <p style="margin-bottom: 15px;">
-        根据基本科学指标库 ESI（Essential Science Indicators）最新统计数据，以课题组<strong>赵聪博士</strong>为第一作者，杜豫川教授为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在智能交通领域顶级国际期刊 <em>Transportation Research Part C: Emerging Technologies</em>（中科院一区，Top 期刊，IF: 9.022）的论文“Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network”（2021年，128卷）入选<strong>工程领域 ESI 全球 TOP 1.0% 高被引论文和研究前沿核心论文</strong>。
+        根据基本科学指标库 ESI（Essential Science Indicators）最新统计数据，以课题组<strong>赵聪副教授</strong>为第一作者，杜豫川教授为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在智能交通领域顶级国际期刊 <em>Transportation Research Part C: Emerging Technologies</em>（中科院一区，Top 期刊，IF: 9.022）的论文“Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network”（2021年，128卷）入选<strong>工程领域 ESI 全球 TOP 1.0% 高被引论文和研究前沿核心论文</strong>。
       </p>
       <p>
         该研究聚焦城市“停车难”痛点问题，面向汽车智能化、网联化发展趋势，揭示了自动驾驶环境下路网静态停车与动态交通的交互影响规律，提出了中心化网联云调度的城市停车管理新范式。为实现区域供需动态平衡，减少停车巡游，论文提出了“区域间总量控制-区域内动态调度-车位级智能匹配”的三层调度框架，构建了动静一体的宏观交通分析模型，拓展了现有的理论体系。研究成果为智能网联环境下的城市停车管理提供了决策支持工具，具有广阔的应用前景。
@@ -211,11 +210,11 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
-      <span style="vertical-align: middle;">杜豫川教授团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
+      <span style="vertical-align: middle;">团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
     </div>
     <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
       <p style="margin-bottom: 15px;">
-        根据基本科学指标库 ESI 最新统计数据，以同济大学智能交通新兴计算与感知研究课题组杜豫川教授为第一作者，<strong>赵聪博士</strong>为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在交通运输领域顶级国际期刊 <em>Transportation Research Part C: Emerging Technologies</em>（中科院一区，Top 期刊，IF: 9.022）的论文“Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning”（2022年，134卷）入选<strong>工程领域 ESI 全球 TOP 1.0% 高被引论文</strong>。
+        根据基本科学指标库 ESI 最新统计数据，以同济大学智能交通新兴计算与感知研究课题组杜豫川教授为第一作者，<strong>赵聪副教授</strong>为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在交通运输领域顶级国际期刊 <em>Transportation Research Part C: Emerging Technologies</em>（中科院一区，Top 期刊，IF: 9.022）的论文“Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning”（2022年，134卷）入选<strong>工程领域 ESI 全球 TOP 1.0% 高被引论文</strong>。
       </p>
       <p>
         该研究面向车路协同自动驾驶环境，为提升车辆行驶的舒适性和节能性，率先利用海量路面数据和新兴深度强化学习算法，构建了一种高效的自动驾驶智能决策控制框架。研究创新性提出“最大舒适速度”概念，以表征自动驾驶车辆前方复杂的路面环境信息；进而利用深度强化学习方法构建速度决策模型，使用海量的实证路面数据和高可信的车路交互仿真环境训练深度神经网络参数。实验结果证明，相比于传统的模型预测控制方法，该模型在舒适度、节能和实时计算效率上分别提升了 8.22%、24.37% 和 94.38%，为车路协同环境下的速度决策控制提供了新思路。
@@ -223,8 +222,43 @@ Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transp
     </div>
 </div>
 
+<div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
+      <span style="vertical-align: middle;">团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
+    </div>
+    <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
+      <p style="margin-bottom: 15px;">
+        根据基本科学指标库ESI（Essential Science Indicators）的最新统计数据，以课题组<strong>赵聪副教授</strong>为第一作者，杜豫川教授为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在智能交通领域顶级国际期刊<em>IEEE Transactions on Intelligent Transportation Systems</em>（中科院一区，Top期刊，影响因子为8.4）的论文“A Novel Direct Trajectory Planning Approach Based on Generative Adversarial Networks and Rapidly-Exploring Random Tree”（2022年，23卷，10期）入选工程（Engineering）领域ESI全球TOP 1.0%高被引论文。
+      </p>
+      <p>
+        该研究面向自动驾驶车辆在复杂多障碍物场景下的高精度轨迹规划需求，针对现有方法在轨迹可行性与长阶段计算效率方面的局限，提出了一种基于生成对抗网络（GAN）与快速探索随机树（RRT）的直接轨迹规划（DTP）终身学习框架。研究团队构建了轻量级GDTP模型，以表征车辆初始/目标状态与控制动作序列间的映射关系；进而将该模型嵌入至RRT算法中，开发了GDTP-RRT规划算法。以运动学约束复杂的牵引挂车系统为例的多场景测试表明，相比于传统的三次曲线RRT算法，该方法在保持高计算效率的同时有效提升了轨迹可行性，其位置与航向角的跟踪误差分别降低了29.1%和44.1%。研究成果为解决复杂约束下的车辆轨迹规划问题提供了有效的新思路，为高级别自动驾驶系统的落地应用提供了重要的理论依据与技术参考。
+      </p>
+      <p>
+        ESI是由世界著名的学术信息出版机构美国科技信息所（ISI）推出的衡量科学研究绩效、跟踪科学发展趋势的基本分析评价工具，是基于汤森路透Web of Science（SCIE/SSCI）所收录的全球11000多种学术期刊的数千万条文献记录而建立的计量分析数据库。ESI对全球所有的SCIE、SSCI库中2005年以来的论文数据进行统计，按被引频次的高低确定出衡量研究绩效的阈值；ESI高被引论文已成为当前衡量和评价国家/地区科研水平、机构学术声誉、学科水平、科学家学术影响力以及期刊学术水平的一个重要指标。ESI Top 1.0 %高被引论文是指同年度同学科领域中被引频次排名前1.0%以内的文章。
+      </p>
+    </div>
 </div>
 
+<div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 12px;">
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
+      <span style="vertical-align: middle;">团队中科院一区、Top 期刊论文入选 ESI 全球 Top 1% 高被引论文</span>
+    </div>
+    <div style="color: #444; font-size: 0.95em; line-height: 1.8; text-align: justify;">
+      <p style="margin-bottom: 15px;">
+        根据基本科学指标库ESI（Essential Science Indicators）的最新统计数据，以课题组暨育雄教授为第一作者，<strong>赵聪副教授</strong>为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在智能交通领域顶级国际期刊<em>IEEE Transactions on Intelligent Transportation Systems</em>（中科院一区，Top期刊，影响因子为8.4）的论文“TriPField: A 3D Potential Field Model and Its Applications to Local Path Planning of Autonomous Vehicles”（2023年，24卷，3期）入选工程（Engineering）领域ESI全球TOP 1.0%高被引论文。
+      </p>
+      <p>
+        该研究面向自动驾驶车辆在复杂动态障碍物场景下的局部路径规划需求，针对传统人工势场模型因各向同性及忽略目标几何特征易陷入局部最优的问题，提出了一种三维势场（TriPField）规划模型。该模型融合了椭球势场与高斯速度场（GVF）：在椭球坐标系下通过求解拉普拉斯方程表征周边车辆的三维轮廓与姿态；并引入非参数GVF捕捉多车动态交互特征以指导速度规划；最后结合模型预测控制（MPC），构建了满足底层运动学约束的规划框架。在主动变道、匝道汇入和跟车等典型场景的实验表明，与传统势场规划器相比，该方法将局部路径长度、路径粗糙度、加速度变化率及MPC跟踪误差分别降低了10%、11%、24%和20%，并在周边车辆异常驾驶时仍能实现有效避障。该成果为复杂密集交通流下的自动驾驶高精度运动规划提供了可靠的理论依据与工程参考。
+      </p>
+      <p>
+        ESI是由世界著名的学术信息出版机构美国科技信息所（ISI）推出的衡量科学研究绩效、跟踪科学发展趋势的基本分析评价工具，是基于汤森路透Web of Science（SCIE/SSCI）所收录的全球11000多种学术期刊的数千万条文献记录而建立的计量分析数据库。ESI对全球所有的SCIE、SSCI库中2005年以来的论文数据进行统计，按被引频次的高低确定出衡量研究绩效的阈值；ESI高被引论文已成为当前衡量和评价国家/地区科研水平、机构学术声誉、学科水平、科学家学术影响力以及期刊学术水平的一个重要指标。ESI Top 1.0 %高被引论文是指同年度同学科领域中被引频次排名前1.0%以内的文章。
+      </p>
+    </div>
+</div>
+
+</div>
 <div style="height: 24px;"></div>
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
