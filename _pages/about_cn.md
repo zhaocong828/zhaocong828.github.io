@@ -30,13 +30,13 @@ redirect_from:
 - *2010.09 - 2014.07*, [同济大学](https://www.tongji.edu.cn/), 交通工程, 学士.
 - *2014.09 - 2017.07*, [同济大学](https://www.tongji.edu.cn/), 交通运输工程, 硕士.
 - *2018.11 - 2019.12*, [加州大学伯克利分校](https://www.berkeley.edu/), 交通研究院, 联合培养博士.
-- *2017.09 - 2020.08*, [同济大学](https://www.tongji.edu.cn/), 交通运输工程, 博士.
+- *2017.09 - 2020.08*, [同济大学](https://www.tongji.edu.cn/), 交通运输工程, 博士（导师：杜豫川教授）.
 
 <span class='anchor' id='professional-experiences'></span>
 # 💻 工作经历
 - *2020.11 - 2024.02*, [同济大学](https://www.tongji.edu.cn/), 交通学院, 博士后（导师：何积丰院士）.
 - *2024.03 - Present* , [同济大学](https://www.tongji.edu.cn/), 交通学院, 副教授.
-- *2025.01 - Present* , 国家发展和改革委员会, 基础设施发展司, 借调.
+- *2025.01 - Present* , 国家发展和改革委员会, 基础设施发展司, 挂职锻炼.
 
 <span class='anchor' id='projects'></span>
 
