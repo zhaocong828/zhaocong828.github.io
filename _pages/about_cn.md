@@ -42,8 +42,16 @@ redirect_from:
 
 # 🔍 科研项目
 <!-- 补充你的项目内容 -->
-- *年.月 - 年.月*, [项目名称](https://example.com/) (经费/级别), 角色, 项目描述.
-- *年.月 - 年.月*, [项目名称](https://example.com/) (经费/级别), 角色, 项目描述.
+- *2025.01 - 2028.12*, [人机混驾环境下自主代客泊车的云控调度研究](https://kd.nsfc.cn/fundingProjectInit?projectCode=52472352), 国家自然科学基金面上项目(52472352), 主持.
+- *2022.01 - 2024.12*, [城市路网停车寻位行为与交通状态演化的映射机理研究](https://kd.nsfc.cn/fundingProjectInit?projectCode=52102383), 国家自然科学基金青年科学基金项目(52102383), 主持.
+- *2025.01 - 2025.12*, [新时期交通与运载工程学科发展战略研究](https://kd.nsfc.cn/fundingProjectInit?projectCode=52442213), 国家自然科学基金专项项目(52442213), 骨干.
+- *2021.12 - 2024.11*, [集装箱疏运车辆港区作业和编队自动驾驶关键技术与系统研发](https://service.most.gov.cn/), 国家重点研发计划(2021YFB1600403), 主持，子课题：面向港区和疏运道路的车路协同超视距感知与定位增强技术{insert\_element\_0\_}.
+- *2020.11 - 2024.10*, [可信可解释的人机共驾混合智能决策与在线评估](https://service.most.gov.cn/), 科技创新2030“新一代人工智能”重大项目(2020AAA0108101), 骨干{insert\_element\_1\_}.
+- *2023.01 - 2024.03*, [自动代客泊车环境下停车系统调度建模与优化](https://jj.chinapostdoctor.org.cn/), 中国博士后科学基金特别资助项目(2023T160487), 主持.
+- *2023.03 - 2024.02*, [车路一体智能网联交通技术发展现状与演进趋势研究](https://czkj.sheic.org.cn/), 上海市科技创新行动计划项目(23692106300), 主持{insert\_element\_2\_}.
+- *2024.12 - 2027.11*, [车路云一体化架构下自主泊车路车融合增强与运行优化研究](https://czkj.sheic.org.cn/), 上海市青年科技启明星项目(24QA2709600), 主持.
+- *2021.01 - 2025.12*, [基于车路系统全息信息环境的自动驾驶群智协同关键技术研究](https://czkj.sheic.org.cn/), 上海市教育委员会科研创新计划自然科学重大项目(2021-01-07-00-07-E00092), 骨干.
+- *2024.09 - 2026.08*, [基于车路云一体化的自主泊车运控系统（智能停车场景）](https://czkj.sheic.org.cn/), 嘉定区科技创新揭榜挂帅项目（成果转化类）, 主持{insert\_element\_3\_}.
 
 <span class='anchor' id='-news'></span>
 
@@ -614,9 +622,15 @@ Transportation Research Part C: Emerging Technologies.
 - **赵聪**, 杜豫川, 陈菁, 仇越. 一种车路协同环境下的自动驾驶纵向决策控制方法 (ZL202110131790.7)
 
 <span class='anchor' id='-honors-and-awards'></span>
-# 🏆 荣誉奖项
-🏅 荣誉
-
+# 🏆 获奖
+- *2023*, [中国科协青年人才托举工程](http://qingtuo.36ve.com/), 中国科学技术协会
+- *2024*, [上海市青年科技启明星（A类）](https://czkj.sheic.org.cn/), 上海市科学技术委员会
+- *2025*, [东方英才青年项目](https://www.sh-italent.com/PolicyGuide/TalentPlanIndex.aspx?ID=42622), 上海市教育委员会
+- *2022*, [上海市科技进步一等奖](https://svc20.stcsm.sh.gov.cn/), 城市停车全域数字化与管理智能化关键技术及应用, 排名第2
+- *2024*, [中国发明协会发明创新一等奖](http://www.cainet.org.cn/), 智能路网交通全息可信感知与动静协同管控关键技术及应用, 排名第1
+- *2024*, [上海市科技进步二等奖](https://svc20.stcsm.sh.gov.cn/), 城市公交云控智能导航与调度关键技术及应用, 排名第4
+- *2022*, [交通运输重大科技创新成果（科技论文类）](https://xxgk.mot.gov.cn/jigou/kjs/202212/t20221229_3647752.html), 交通运输部, Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network
+- *2022*, [交通运输重大科技创新成果（科技论文类）](https://xxgk.mot.gov.cn/jigou/kjs/202212/t20221229_3647752.html), 交通运输部, 路侧感知车辆轨迹数据质量智能评估方法
 
 <span class='anchor' id='-people'></span>
 # 🧑‍💻 团队成员
